@@ -1,0 +1,216 @@
+{
+  "id": "n4-te-oku",
+  "level": "N4",
+  "title": "〜ておく",
+  "meaning": "faire à l'avance / laisser en l'état",
+  "structure": [
+    "Verbe (forme て) + おく",
+    "Familier : 〜とく (← ておく), 〜どく (← でおく)"
+  ],
+  "explanation": "`おく` signifie « poser, placer ». Après la forme en て, il exprime une action faite **en préparation** de quelque chose : on la fait maintenant pour que ce soit prêt plus tard.\n\nDeuxième sens : **laisser une situation telle quelle**, volontairement. `窓を開けておいて` = « laisse la fenêtre ouverte ».\n\nC'est une forme très utile pour parler d'organisation : réserver, préparer, acheter à l'avance, prévenir quelqu'un…",
+  "nuances": [
+    "À l'oral : `〜ておく` → `〜とく`, `〜でおく` → `〜どく` (`読んどく`)."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "旅行",
+          "r": "りょこう",
+          "pos": "noun",
+          "gloss": "voyage"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "前",
+          "r": "まえ",
+          "pos": "noun",
+          "gloss": "avant"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "ホテル",
+          "pos": "noun",
+          "gloss": "hôtel"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "予約して",
+          "r": "よやくして",
+          "pos": "verb",
+          "gloss": "réserver",
+          "base": "予約する",
+          "baseR": "よやくする"
+        },
+        {
+          "s": "おきます",
+          "pos": "aux",
+          "gloss": "(à l'avance)",
+          "base": "おく",
+          "grammar": [
+            "n4-te-oku"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je réserve l'hôtel avant le voyage."
+    },
+    {
+      "tokens": [
+        {
+          "s": "窓",
+          "r": "まど",
+          "pos": "noun",
+          "gloss": "fenêtre"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "開けて",
+          "r": "あけて",
+          "pos": "verb",
+          "gloss": "ouvrir",
+          "base": "開ける",
+          "baseR": "あける"
+        },
+        {
+          "s": "おいて",
+          "pos": "aux",
+          "gloss": "(laisser tel quel)",
+          "base": "おく",
+          "grammar": [
+            "n4-te-oku"
+          ]
+        },
+        {
+          "s": "ください",
+          "pos": "aux",
+          "gloss": "s'il vous plaît",
+          "base": "くださる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Laissez la fenêtre ouverte, s'il vous plaît."
+    },
+    {
+      "tokens": [
+        {
+          "s": "明日",
+          "r": "あした",
+          "pos": "noun",
+          "gloss": "demain"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "会議",
+          "r": "かいぎ",
+          "pos": "noun",
+          "gloss": "réunion"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "資料",
+          "r": "しりょう",
+          "pos": "noun",
+          "gloss": "documents"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "読んで",
+          "r": "よんで",
+          "pos": "verb",
+          "gloss": "lire",
+          "base": "読む",
+          "baseR": "よむ"
+        },
+        {
+          "s": "おいた",
+          "pos": "aux",
+          "gloss": "(en préparation)",
+          "base": "おく",
+          "grammar": [
+            "n4-te-oku"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'ai lu à l'avance les documents de la réunion de demain."
+    },
+    {
+      "tokens": [
+        {
+          "s": "飲み物",
+          "r": "のみもの",
+          "pos": "noun",
+          "gloss": "boissons"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "買っとく",
+          "r": "かっとく",
+          "pos": "verb",
+          "gloss": "acheter à l'avance",
+          "base": "買う",
+          "baseR": "かう",
+          "grammar": [
+            "n4-te-oku"
+          ],
+          "note": "買っておく → 買っとく (familier)."
+        },
+        {
+          "s": "ね",
+          "pos": "particle",
+          "gloss": "n'est-ce pas ? (recherche d'accord)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'achète les boissons à l'avance, d'accord ?"
+    }
+  ],
+  "related": [
+    "n4-te-shimau"
+  ]
+}

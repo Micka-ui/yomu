@@ -1,0 +1,168 @@
+{
+  "id": "n4-nagara",
+  "level": "N4",
+  "title": "〜ながら",
+  "meaning": "tout en… (deux actions simultanées)",
+  "structure": [
+    "Verbe (radical en ます) + ながら"
+  ],
+  "explanation": "`〜ながら` relie deux actions faites **en même temps par la même personne**. On prend le radical en ます (`聞き`, `食べ`, `歩き`) et on ajoute `ながら`.\n\nL'action **principale** est celle de la fin de phrase ; celle avec `ながら` est secondaire. `音楽を聞きながら勉強する` : on étudie (principal) en écoutant de la musique (secondaire).",
+  "nuances": [
+    "Les deux actions doivent avoir **le même sujet**."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "音楽",
+          "r": "おんがく",
+          "pos": "noun",
+          "gloss": "musique"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "聞きながら",
+          "r": "ききながら",
+          "pos": "verb",
+          "gloss": "tout en écoutant",
+          "base": "聞く",
+          "baseR": "きく",
+          "grammar": [
+            "n4-nagara"
+          ]
+        },
+        {
+          "s": "勉強します",
+          "r": "べんきょうします",
+          "pos": "verb",
+          "gloss": "étudier",
+          "base": "勉強する",
+          "baseR": "べんきょうする"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'étudie en écoutant de la musique."
+    },
+    {
+      "tokens": [
+        {
+          "s": "歩きながら",
+          "r": "あるきながら",
+          "pos": "verb",
+          "gloss": "tout en marchant",
+          "base": "歩く",
+          "baseR": "あるく",
+          "grammar": [
+            "n4-nagara"
+          ]
+        },
+        {
+          "s": "スマホ",
+          "pos": "noun",
+          "gloss": "smartphone"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "見ないで",
+          "r": "みないで",
+          "pos": "verb",
+          "gloss": "sans regarder / ne regardez pas",
+          "base": "見る",
+          "baseR": "みる"
+        },
+        {
+          "s": "ください",
+          "pos": "aux",
+          "gloss": "s'il vous plaît",
+          "base": "くださる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ne regardez pas votre smartphone en marchant."
+    },
+    {
+      "tokens": [
+        {
+          "s": "彼",
+          "r": "かれ",
+          "pos": "pron",
+          "gloss": "il, lui"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "テレビ",
+          "pos": "noun",
+          "gloss": "télévision"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "見ながら",
+          "r": "みながら",
+          "pos": "verb",
+          "gloss": "tout en regardant",
+          "base": "見る",
+          "baseR": "みる",
+          "grammar": [
+            "n4-nagara"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "ご飯",
+          "r": "ごはん",
+          "pos": "noun",
+          "gloss": "repas, riz"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "食べて",
+          "r": "たべて",
+          "pos": "verb",
+          "gloss": "manger",
+          "base": "食べる",
+          "baseR": "たべる"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il mange en regardant la télévision."
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "id": "2026-10-26-tezuka",
+  "date": "2026-10-26",
+  "level": "N3",
+  "interest": "manga-anime",
+  "title": [
+    {
+      "s": "「",
+      "pos": "punct"
+    },
+    {
+      "s": "マンガ",
+      "pos": "noun",
+      "gloss": "manga"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "神様",
+      "r": "かみさま",
+      "pos": "noun",
+      "gloss": "dieu"
+    },
+    {
+      "s": "」",
+      "pos": "punct"
+    },
+    {
+      "s": "手塚治虫",
+      "r": "てづかおさむ",
+      "pos": "name",
+      "gloss": "Osamu Tezuka"
+    }
+  ],
+  "titleFr": "« Le dieu du manga » : Osamu Tezuka",
+  "summary": "Un médecin diplômé qui a choisi le crayon plutôt que le stéthoscope.",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "手塚治虫",
+          "r": "てづかおさむ",
+          "pos": "name",
+          "gloss": "Osamu Tezuka"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、「",
+          "pos": "punct"
+        },
+        {
+          "s": "マンガ",
+          "pos": "noun",
+          "gloss": "manga"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "神様",
+          "r": "かみさま",
+          "pos": "noun",
+          "gloss": "dieu"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "呼ばれて",
+          "r": "よばれて",
+          "pos": "verb",
+          "gloss": "être appelé",
+          "base": "呼ぶ",
+          "baseR": "よぶ",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "漫画家",
+          "r": "まんがか",
+          "pos": "noun",
+          "gloss": "mangaka, auteur de manga"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "1928",
+          "pos": "number",
+          "gloss": "1928"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "大阪府",
+          "r": "おおさかふ",
+          "pos": "name",
+          "gloss": "préfecture d'Osaka"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "生まれ",
+          "r": "うまれ",
+          "pos": "verb",
+          "gloss": "naître",
+          "base": "生まれる",
+          "baseR": "うまれる"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ころ",
+          "pos": "noun",
+          "gloss": "époque, moment"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "絵",
+          "r": "え",
+          "pos": "noun",
+          "gloss": "dessin"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "描く",
+          "r": "かく",
+          "pos": "verb",
+          "gloss": "dessiner",
+          "base": "描く",
+          "baseR": "かく"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "大好き",
+          "r": "だいすき",
+          "pos": "na-adj",
+          "gloss": "adorer"
+        },
+        {
+          "s": "でした",
+          "pos": "aux",
+          "gloss": "était (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Osamu Tezuka est un mangaka qu'on appelle « le dieu du manga ». Né en 1928 dans la préfecture d'Osaka, il adorait dessiner depuis son enfance."
+    },
+    {
+      "tokens": [
+        {
+          "s": "しかし",
+          "pos": "conj",
+          "gloss": "cependant, pourtant"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "大学",
+          "r": "だいがく",
+          "pos": "noun",
+          "gloss": "université"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "医学",
+          "r": "いがく",
+          "pos": "noun",
+          "gloss": "médecine (études)"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "勉強し",
+          "r": "べんきょうし",
+          "pos": "verb",
+          "gloss": "étudier",
+          "base": "勉強する",
+          "baseR": "べんきょうする"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "医者",
+          "r": "いしゃ",
+          "pos": "noun",
+          "gloss": "médecin"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "資格",
+          "r": "しかく",
+          "pos": "noun",
+          "gloss": "diplôme, qualification"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "取りました",
+          "r": "とりました",
+          "pos": "verb",
+          "gloss": "obtenir",
+          "base": "取る",
+          "baseR": "とる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "それでも",
+          "pos": "conj",
+          "gloss": "malgré cela"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "彼",
+          "r": "かれ",
+          "pos": "pron",
+          "gloss": "il, lui"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "医者",
+          "r": "いしゃ",
+          "pos": "noun",
+          "gloss": "médecin"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "en tant que",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "なく",
+          "pos": "aux",
+          "gloss": "ne pas (forme liée de ない)"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "漫画家",
+          "r": "まんがか",
+          "pos": "noun",
+          "gloss": "mangaka"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "en tant que",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "生きる",
+          "r": "いきる",
+          "pos": "verb",
+          "gloss": "vivre",
+          "base": "生きる",
+          "baseR": "いきる"
+        },
+        {
+          "s": "ことにしました",
+          "pos": "expr",
+          "gloss": "a décidé de",
+          "base": "ことにする",
+          "grammar": [
+            "n3-koto-ni-naru"
+          ],
+          "note": "〜ことにする : décision personnelle (voir la leçon 〜ことになる)."
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Pourtant, à l'université, il a étudié la médecine et a même obtenu son diplôme de médecin. Malgré cela, il a décidé de vivre non pas en tant que médecin, mais en tant que mangaka."
+    },
+    {
+      "tokens": [
+        {
+          "s": "1952",
+          "pos": "number",
+          "gloss": "1952"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "連載",
+          "r": "れんさい",
+          "pos": "noun",
+          "gloss": "publication en feuilleton"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "始まった",
+          "r": "はじまった",
+          "pos": "verb",
+          "gloss": "a commencé",
+          "base": "始まる",
+          "baseR": "はじまる"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "鉄腕",
+          "r": "てつわん",
+          "pos": "noun",
+          "gloss": "bras de fer"
+        },
+        {
+          "s": "アトム",
+          "pos": "name",
+          "gloss": "Atom"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "心",
+          "r": "こころ",
+          "pos": "noun",
+          "gloss": "cœur, esprit"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "持つ",
+          "r": "もつ",
+          "pos": "verb",
+          "gloss": "avoir, posséder",
+          "base": "持つ",
+          "baseR": "もつ"
+        },
+        {
+          "s": "ロボット",
+          "pos": "noun",
+          "gloss": "robot"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "少年",
+          "r": "しょうねん",
+          "pos": "noun",
+          "gloss": "jeune garçon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "物語",
+          "r": "ものがたり",
+          "pos": "noun",
+          "gloss": "histoire, récit"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "1963",
+          "pos": "number",
+          "gloss": "1963"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "テレビアニメ",
+          "pos": "noun",
+          "gloss": "série animée télévisée"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "なり",
+          "pos": "verb",
+          "gloss": "devenir (forme liée de なる)"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "たち",
+          "pos": "suffix",
+          "gloss": "(pluriel)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "毎週",
+          "r": "まいしゅう",
+          "pos": "noun",
+          "gloss": "chaque semaine"
+        },
+        {
+          "s": "アトム",
+          "pos": "name",
+          "gloss": "Atom"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "テレビ",
+          "pos": "noun",
+          "gloss": "télévision"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "見られる",
+          "r": "みられる",
+          "pos": "verb",
+          "gloss": "pouvoir voir",
+          "base": "見る",
+          "baseR": "みる",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "ようになりました",
+          "pos": "expr",
+          "gloss": "en est venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "« Astro Boy » (Tetsuwan Atom), publié en feuilleton à partir de 1952, raconte l'histoire d'un jeune garçon robot doté d'un cœur. En 1963, il est devenu une série animée, et les enfants ont pu voir Atom à la télévision chaque semaine."
+    },
+    {
+      "tokens": [
+        {
+          "s": "手塚",
+          "r": "てづか",
+          "pos": "name",
+          "gloss": "Tezuka"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "寝る",
+          "r": "ねる",
+          "pos": "verb",
+          "gloss": "dormir",
+          "base": "寝る",
+          "baseR": "ねる"
+        },
+        {
+          "s": "時間",
+          "r": "じかん",
+          "pos": "noun",
+          "gloss": "temps"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "惜しんで",
+          "r": "おしんで",
+          "pos": "verb",
+          "gloss": "épargner, regretter de perdre",
+          "base": "惜しむ",
+          "baseR": "おしむ"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "マンガ",
+          "pos": "noun",
+          "gloss": "manga"
+        },
+        {
+          "s": "ばかり",
+          "pos": "particle",
+          "gloss": "rien que",
+          "grammar": [
+            "n3-bakari"
+          ]
+        },
+        {
+          "s": "描いて",
+          "r": "かいて",
+          "pos": "verb",
+          "gloss": "dessiner",
+          "base": "描く",
+          "baseR": "かく"
+        },
+        {
+          "s": "いた",
+          "pos": "aux",
+          "gloss": "(habitude passée)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "一生",
+          "r": "いっしょう",
+          "pos": "noun",
+          "gloss": "toute une vie"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "十五万",
+          "r": "じゅうごまん",
+          "pos": "number",
+          "gloss": "150 000"
+        },
+        {
+          "s": "ページ",
+          "pos": "noun",
+          "gloss": "page"
+        },
+        {
+          "s": "以上",
+          "r": "いじょう",
+          "pos": "noun",
+          "gloss": "plus de"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "描いた",
+          "r": "かいた",
+          "pos": "verb",
+          "gloss": "avoir dessiné",
+          "base": "描く",
+          "baseR": "かく"
+        },
+        {
+          "s": "らしい",
+          "pos": "aux",
+          "gloss": "il paraît que",
+          "grammar": [
+            "n3-rashii"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "彼",
+          "r": "かれ",
+          "pos": "pron",
+          "gloss": "il, lui"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "作品",
+          "r": "さくひん",
+          "pos": "noun",
+          "gloss": "œuvre"
+        },
+        {
+          "s": "によって",
+          "pos": "expr",
+          "gloss": "grâce à",
+          "grammar": [
+            "n3-ni-yotte"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "マンガ",
+          "pos": "noun",
+          "gloss": "manga"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "だけ",
+          "pos": "particle",
+          "gloss": "seulement"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "もの",
+          "pos": "noun",
+          "gloss": "chose"
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "なくなった",
+          "pos": "verb",
+          "gloss": "a cessé d'être (ない + なる)"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Tezuka ne faisait que dessiner, quitte à sacrifier son sommeil. Il paraît qu'il a dessiné plus de 150 000 pages au cours de sa vie. Grâce à ses œuvres, le manga a cessé d'être une chose réservée aux enfants."
+    }
+  ],
+  "grammarUsed": [
+    "n3-bakari",
+    "n3-koto-ni-naru",
+    "n3-ni-yotte",
+    "n3-rashii",
+    "n3-to-shite",
+    "n3-you-ni-naru",
+    "n4-kanoukei",
+    "n4-ukemi"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "n4-to-iu",
+  "level": "N4",
+  "title": "〜という",
+  "meaning": "appelé…, qui s'appelle… / le fait que…",
+  "structure": [
+    "Nom A + という + Nom B",
+    "Phrase + という + こと / 話 / 意味…"
+  ],
+  "explanation": "`という` vient de `と言う` (« dire que »). Placé entre deux noms, il sert à **nommer** : `トトロという映画` = « un film qui s'appelle Totoro ». C'est très pratique quand on présente quelque chose que l'interlocuteur ne connaît peut-être pas.\n\nOn l'utilise aussi pour **définir le contenu** d'un nom : `日本に行くという夢` = « le rêve d'aller au Japon », `「もったいない」という言葉` = « le mot \"mottainai\" ».\n\nÀ l'écrit, on voit aussi `〜とは` (« ce qu'on appelle… ») pour introduire une définition.",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "トトロ",
+          "pos": "name",
+          "gloss": "Totoro"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "映画",
+          "r": "えいが",
+          "pos": "noun",
+          "gloss": "film"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "知って",
+          "r": "しって",
+          "pos": "verb",
+          "gloss": "savoir, connaître",
+          "base": "知る",
+          "baseR": "しる"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "か",
+          "pos": "particle",
+          "gloss": "particule interrogative"
+        },
+        {
+          "s": "？",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Tu connais le film qui s'appelle « Totoro » ?"
+    },
+    {
+      "tokens": [
+        {
+          "s": "田中",
+          "r": "たなか",
+          "pos": "name",
+          "gloss": "Tanaka"
+        },
+        {
+          "s": "さん",
+          "pos": "suffix",
+          "gloss": "M./Mme"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "personne"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "電話",
+          "r": "でんわ",
+          "pos": "noun",
+          "gloss": "appel téléphonique"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "ありました",
+          "pos": "verb",
+          "gloss": "il y a eu",
+          "base": "ある"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Une personne appelée M. Tanaka a téléphoné."
+    },
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "には",
+          "pos": "particle",
+          "gloss": "à / pour (に + thème)"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "もったいない",
+          "pos": "i-adj",
+          "gloss": "quel gâchis"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "言葉",
+          "r": "ことば",
+          "pos": "noun",
+          "gloss": "mot"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "ある",
+          "pos": "verb",
+          "gloss": "il y a, exister",
+          "base": "ある"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Au Japon, il existe le mot « mottainai » (quel gâchis)."
+    }
+  ]
+}

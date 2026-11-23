@@ -1,0 +1,122 @@
+[
+  {
+    "id": "n4-ba-to",
+    "level": "N4",
+    "title": "〜ば / 〜と",
+    "meaning": "si… (condition générale) / dès que, chaque fois que"
+  },
+  {
+    "id": "n4-kamoshirenai",
+    "level": "N4",
+    "title": "〜かもしれない",
+    "meaning": "peut-être, il se peut que"
+  },
+  {
+    "id": "n4-kanoukei",
+    "level": "N4",
+    "title": "可能形 (〜える / 〜られる)",
+    "meaning": "la forme potentielle : pouvoir, savoir faire"
+  },
+  {
+    "id": "n4-nagara",
+    "level": "N4",
+    "title": "〜ながら",
+    "meaning": "tout en… (deux actions simultanées)"
+  },
+  {
+    "id": "n4-sou-da",
+    "level": "N4",
+    "title": "〜そうだ (apparence)",
+    "meaning": "avoir l'air, sembler (d'après ce qu'on voit)"
+  },
+  {
+    "id": "n4-tame-ni",
+    "level": "N4",
+    "title": "〜ために",
+    "meaning": "pour, afin de / à cause de"
+  },
+  {
+    "id": "n4-tara",
+    "level": "N4",
+    "title": "〜たら",
+    "meaning": "si… / quand…, une fois que…"
+  },
+  {
+    "id": "n4-te-oku",
+    "level": "N4",
+    "title": "〜ておく",
+    "meaning": "faire à l'avance / laisser en l'état"
+  },
+  {
+    "id": "n4-te-shimau",
+    "level": "N4",
+    "title": "〜てしまう",
+    "meaning": "finir complètement / faire (malheureusement, par mégarde)"
+  },
+  {
+    "id": "n4-to-iu",
+    "level": "N4",
+    "title": "〜という",
+    "meaning": "appelé…, qui s'appelle… / le fait que…"
+  },
+  {
+    "id": "n4-ukemi",
+    "level": "N4",
+    "title": "受身形 (〜れる / 〜られる)",
+    "meaning": "la forme passive"
+  },
+  {
+    "id": "n3-bakari",
+    "level": "N3",
+    "title": "〜ばかり",
+    "meaning": "ne… que, rien que / venir juste de (〜たばかり)"
+  },
+  {
+    "id": "n3-koto-ni-naru",
+    "level": "N3",
+    "title": "〜ことになる",
+    "meaning": "il a été décidé que… / finir par…"
+  },
+  {
+    "id": "n3-ni-tsuite",
+    "level": "N3",
+    "title": "〜について",
+    "meaning": "au sujet de, à propos de, sur"
+  },
+  {
+    "id": "n3-ni-yotte",
+    "level": "N3",
+    "title": "〜によって",
+    "meaning": "par (auteur) / selon / à cause de / au moyen de"
+  },
+  {
+    "id": "n3-rashii",
+    "level": "N3",
+    "title": "〜らしい",
+    "meaning": "il paraît que… / digne de, typique de"
+  },
+  {
+    "id": "n3-to-shite",
+    "level": "N3",
+    "title": "〜として",
+    "meaning": "en tant que, comme"
+  },
+  {
+    "id": "n3-uchi-ni",
+    "level": "N3",
+    "title": "〜うちに",
+    "meaning": "pendant que (c'est encore possible) / au fil de"
+  },
+  {
+    "id": "n3-wake-da",
+    "level": "N3",
+    "title": "〜わけだ",
+    "meaning": "c'est pour ça que…, pas étonnant que… (conclusion logique)"
+  },
+  {
+    "id": "n3-you-ni-naru",
+    "level": "N3",
+    "title": "〜ようになる",
+    "meaning": "en venir à…, devenir capable de… (changement progressif)"
+  }
+]

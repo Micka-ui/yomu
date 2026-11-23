@@ -1,0 +1,137 @@
+{
+  "id": "n3-bakari",
+  "level": "N3",
+  "title": "〜ばかり",
+  "meaning": "ne… que, rien que / venir juste de (〜たばかり)",
+  "structure": [
+    "Nom + ばかり",
+    "Verbe (forme て) + ばかりいる",
+    "Verbe (forme た) + ばかり : venir de"
+  ],
+  "explanation": "`ばかり` a deux usages principaux.\n\n1. **« Rien que, ne faire que »** — souvent avec une nuance de reproche : `ゲームばかりしている` = « il ne fait que jouer aux jeux vidéo ». Avec un verbe : `寝てばかりいる` = « il ne fait que dormir ».\n\n2. **« Venir juste de »** avec la forme en た : `来たばかりです` = « je viens d'arriver ». C'est un sentiment subjectif : l'action semble récente au locuteur, même si elle date de quelques mois.",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "弟",
+          "r": "おとうと",
+          "pos": "noun",
+          "gloss": "petit frère"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "ゲーム",
+          "pos": "noun",
+          "gloss": "jeu vidéo"
+        },
+        {
+          "s": "ばかり",
+          "pos": "particle",
+          "gloss": "rien que, uniquement",
+          "grammar": [
+            "n3-bakari"
+          ]
+        },
+        {
+          "s": "して",
+          "pos": "verb",
+          "gloss": "faire",
+          "base": "する"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours, habitude)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mon petit frère ne fait que jouer aux jeux vidéo."
+    },
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "来た",
+          "r": "きた",
+          "pos": "verb",
+          "gloss": "être venu",
+          "base": "来る",
+          "baseR": "くる"
+        },
+        {
+          "s": "ばかり",
+          "pos": "particle",
+          "gloss": "venir juste de",
+          "grammar": [
+            "n3-bakari"
+          ]
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je viens juste d'arriver au Japon."
+    },
+    {
+      "tokens": [
+        {
+          "s": "甘い",
+          "r": "あまい",
+          "pos": "i-adj",
+          "gloss": "sucré"
+        },
+        {
+          "s": "もの",
+          "pos": "noun",
+          "gloss": "chose"
+        },
+        {
+          "s": "ばかり",
+          "pos": "particle",
+          "gloss": "rien que",
+          "grammar": [
+            "n3-bakari"
+          ]
+        },
+        {
+          "s": "食べないで",
+          "r": "たべないで",
+          "pos": "verb",
+          "gloss": "ne mange pas",
+          "base": "食べる",
+          "baseR": "たべる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ne mange pas que des choses sucrées."
+    }
+  ]
+}

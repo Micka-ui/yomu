@@ -1,0 +1,223 @@
+{
+  "id": "n4-tara",
+  "level": "N4",
+  "title": "〜たら",
+  "meaning": "si… / quand…, une fois que…",
+  "structure": [
+    "Verbe (forme た) + ら",
+    "Adj. い : 〜かったら",
+    "Adj. な / nom : 〜だったら"
+  ],
+  "explanation": "`〜たら` se forme simplement en ajoutant `ら` à la forme passée en た. C'est la condition **la plus polyvalente** du japonais.\n\n1. **Condition** : « si A, alors B ». `雨が降ったら` = « s'il pleut ».\n2. **Succession** : « quand A sera fait, B ». A doit se produire avant B. `家に帰ったら` = « une fois rentré à la maison ».\n3. **Découverte** (avec un passé à la fin) : « quand j'ai fait A, (j'ai constaté que) B ».\n\nContrairement à `〜ば` ou `〜と`, on peut terminer la phrase par une demande, une invitation ou une intention.",
+  "nuances": [
+    "Si le résultat est **certain** dans le futur (« quand j'aurai 20 ans »), `〜たら` signifie « quand », pas « si »."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "雨",
+          "r": "あめ",
+          "pos": "noun",
+          "gloss": "pluie"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "降ったら",
+          "r": "ふったら",
+          "pos": "verb",
+          "gloss": "s'il tombe",
+          "base": "降る",
+          "baseR": "ふる",
+          "grammar": [
+            "n4-tara"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "家",
+          "r": "いえ",
+          "pos": "noun",
+          "gloss": "maison"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "ゲーム",
+          "pos": "noun",
+          "gloss": "jeu vidéo"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "します",
+          "pos": "verb",
+          "gloss": "faire",
+          "base": "する"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "S'il pleut, je jouerai aux jeux vidéo à la maison."
+    },
+    {
+      "tokens": [
+        {
+          "s": "家",
+          "r": "いえ",
+          "pos": "noun",
+          "gloss": "maison"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "帰ったら",
+          "r": "かえったら",
+          "pos": "verb",
+          "gloss": "une fois rentré",
+          "base": "帰る",
+          "baseR": "かえる",
+          "grammar": [
+            "n4-tara"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "電話して",
+          "r": "でんわして",
+          "pos": "verb",
+          "gloss": "téléphoner",
+          "base": "電話する",
+          "baseR": "でんわする"
+        },
+        {
+          "s": "ね",
+          "pos": "particle",
+          "gloss": "n'est-ce pas ? (recherche d'accord)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Appelle-moi quand tu seras rentré(e)."
+    },
+    {
+      "tokens": [
+        {
+          "s": "窓",
+          "r": "まど",
+          "pos": "noun",
+          "gloss": "fenêtre"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "開けたら",
+          "r": "あけたら",
+          "pos": "verb",
+          "gloss": "quand j'ai ouvert",
+          "base": "開ける",
+          "baseR": "あける",
+          "grammar": [
+            "n4-tara"
+          ],
+          "note": "Sens « découverte » : la suite de la phrase est au passé."
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "猫",
+          "r": "ねこ",
+          "pos": "noun",
+          "gloss": "chat"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "入って",
+          "r": "はいって",
+          "pos": "verb",
+          "gloss": "entrer",
+          "base": "入る",
+          "baseR": "はいる"
+        },
+        {
+          "s": "きた",
+          "pos": "aux",
+          "gloss": "(venir vers moi)",
+          "base": "くる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Quand j'ai ouvert la fenêtre, un chat est entré."
+    },
+    {
+      "tokens": [
+        {
+          "s": "安かったら",
+          "r": "やすかったら",
+          "pos": "i-adj",
+          "gloss": "si c'est bon marché",
+          "base": "安い",
+          "baseR": "やすい",
+          "grammar": [
+            "n4-tara"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "買いたい",
+          "r": "かいたい",
+          "pos": "verb",
+          "gloss": "vouloir acheter",
+          "base": "買う",
+          "baseR": "かう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Si c'est bon marché, je veux l'acheter."
+    }
+  ],
+  "related": [
+    "n4-ba-to"
+  ]
+}

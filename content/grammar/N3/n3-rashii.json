@@ -1,0 +1,170 @@
+{
+  "id": "n3-rashii",
+  "level": "N3",
+  "title": "〜らしい",
+  "meaning": "il paraît que… / digne de, typique de",
+  "structure": [
+    "Phrase (forme neutre, sans だ) + らしい : il paraît que",
+    "Nom + らしい + Nom : typique de, digne de"
+  ],
+  "explanation": "`らしい` a deux emplois bien distincts.\n\n1. **Ouï-dire / déduction** : on rapporte une information entendue ou lue, sans en être sûr. `明日は雪が降るらしい` = « il paraît qu'il va neiger demain ». Plus vague et plus distant que `そうだ` (ouï-dire).\n\n2. **« Typique de, digne de »** après un nom : `春らしい日` = « une vraie journée de printemps », `男らしい` = « viril », `あなたらしい` = « ça te ressemble bien ».\n\nLe premier sens se place après une phrase, le second fait de `らしい` un adjectif en い collé à un nom.",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "明日",
+          "r": "あした",
+          "pos": "noun",
+          "gloss": "demain"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "雪",
+          "r": "ゆき",
+          "pos": "noun",
+          "gloss": "neige"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "降る",
+          "r": "ふる",
+          "pos": "verb",
+          "gloss": "tomber",
+          "base": "降る",
+          "baseR": "ふる"
+        },
+        {
+          "s": "らしい",
+          "pos": "aux",
+          "gloss": "il paraît que",
+          "grammar": [
+            "n3-rashii"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il paraît qu'il va neiger demain."
+    },
+    {
+      "tokens": [
+        {
+          "s": "あの",
+          "pos": "expr",
+          "gloss": "ce… là-bas"
+        },
+        {
+          "s": "店",
+          "r": "みせ",
+          "pos": "noun",
+          "gloss": "restaurant, boutique"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ラーメン",
+          "pos": "noun",
+          "gloss": "rāmen"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "とても",
+          "pos": "adv",
+          "gloss": "très"
+        },
+        {
+          "s": "おいしい",
+          "pos": "i-adj",
+          "gloss": "délicieux"
+        },
+        {
+          "s": "らしい",
+          "pos": "aux",
+          "gloss": "il paraît que",
+          "grammar": [
+            "n3-rashii"
+          ]
+        },
+        {
+          "s": "よ",
+          "pos": "particle",
+          "gloss": "particule d'affirmation"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il paraît que les rāmen de ce restaurant sont délicieux."
+    },
+    {
+      "tokens": [
+        {
+          "s": "今日",
+          "r": "きょう",
+          "pos": "noun",
+          "gloss": "aujourd'hui"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "春らしい",
+          "r": "はるらしい",
+          "pos": "i-adj",
+          "gloss": "typique du printemps",
+          "grammar": [
+            "n3-rashii"
+          ],
+          "note": "春 (printemps) + らしい : « digne du printemps »."
+        },
+        {
+          "s": "暖かい",
+          "r": "あたたかい",
+          "pos": "i-adj",
+          "gloss": "doux, chaud"
+        },
+        {
+          "s": "日",
+          "r": "ひ",
+          "pos": "noun",
+          "gloss": "jour"
+        },
+        {
+          "s": "だ",
+          "pos": "aux",
+          "gloss": "être (neutre)",
+          "base": "だ"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Aujourd'hui, c'est une vraie journée de printemps, douce."
+    }
+  ],
+  "related": [
+    "n4-sou-da",
+    "n4-kamoshirenai"
+  ]
+}

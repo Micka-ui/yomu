@@ -1,0 +1,219 @@
+{
+  "id": "n3-wake-da",
+  "level": "N3",
+  "title": "〜わけだ",
+  "meaning": "c'est pour ça que…, pas étonnant que… (conclusion logique)",
+  "structure": [
+    "Verbe / adj. い (forme neutre) + わけだ",
+    "Adj. な + な + わけだ ／ Nom + の / という + わけだ"
+  ],
+  "explanation": "`わけ` signifie « raison, logique ». `〜わけだ` sert à tirer une **conclusion naturelle** à partir d'une information qu'on vient d'apprendre : « ah, c'est pour ça que… », « pas étonnant que… ».\n\nExemple typique : on apprend que quelqu'un a vécu dix ans au Japon → `日本語が上手なわけだ` = « pas étonnant qu'il parle bien japonais ».\n\nOn l'utilise aussi pour **reformuler** ou résumer : `つまり、明日は休みというわけですね` = « donc, demain c'est congé, c'est bien ça ? ».\n\nFamille à connaître plus tard : `わけではない` (« ce n'est pas que… »), `わけがない` (« impossible que… »).",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "十年",
+          "r": "じゅうねん",
+          "pos": "noun",
+          "gloss": "dix ans"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "住んで",
+          "r": "すんで",
+          "pos": "verb",
+          "gloss": "habiter",
+          "base": "住む",
+          "baseR": "すむ"
+        },
+        {
+          "s": "いた",
+          "pos": "aux",
+          "gloss": "(état passé)",
+          "base": "いる"
+        },
+        {
+          "s": "んです",
+          "pos": "expr",
+          "gloss": "(explication)",
+          "base": "のです"
+        },
+        {
+          "s": "か",
+          "pos": "particle",
+          "gloss": "particule interrogative"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "日本語",
+          "r": "にほんご",
+          "pos": "noun",
+          "gloss": "langue japonaise"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "上手",
+          "r": "じょうず",
+          "pos": "na-adj",
+          "gloss": "doué"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "わけです",
+          "pos": "expr",
+          "gloss": "pas étonnant que",
+          "grammar": [
+            "n3-wake-da"
+          ]
+        },
+        {
+          "s": "ね",
+          "pos": "particle",
+          "gloss": "n'est-ce pas ? (recherche d'accord)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Vous avez vécu dix ans au Japon ? Pas étonnant que vous parliez si bien japonais."
+    },
+    {
+      "tokens": [
+        {
+          "s": "窓",
+          "r": "まど",
+          "pos": "noun",
+          "gloss": "fenêtre"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "開いて",
+          "r": "あいて",
+          "pos": "verb",
+          "gloss": "être ouvert",
+          "base": "開く",
+          "baseR": "あく"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "寒い",
+          "r": "さむい",
+          "pos": "i-adj",
+          "gloss": "froid"
+        },
+        {
+          "s": "わけだ",
+          "pos": "expr",
+          "gloss": "c'est pour ça que",
+          "grammar": [
+            "n3-wake-da"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "La fenêtre est ouverte. C'est pour ça qu'il fait froid."
+    },
+    {
+      "tokens": [
+        {
+          "s": "つまり",
+          "pos": "conj",
+          "gloss": "autrement dit"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "明日",
+          "r": "あした",
+          "pos": "noun",
+          "gloss": "demain"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "休み",
+          "r": "やすみ",
+          "pos": "noun",
+          "gloss": "congé, repos"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "(contenu)",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "わけです",
+          "pos": "expr",
+          "gloss": "c'est donc que",
+          "grammar": [
+            "n3-wake-da"
+          ]
+        },
+        {
+          "s": "ね",
+          "pos": "particle",
+          "gloss": "n'est-ce pas ? (recherche d'accord)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Autrement dit, demain c'est congé, c'est ça ?"
+    }
+  ],
+  "related": [
+    "n4-to-iu"
+  ]
+}

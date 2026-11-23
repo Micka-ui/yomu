@@ -1,0 +1,665 @@
+{
+  "id": "2026-11-16-hayabusa",
+  "date": "2026-11-16",
+  "level": "N4",
+  "interest": "sciences-tech",
+  "title": [
+    {
+      "s": "はやぶさ",
+      "pos": "name",
+      "gloss": "Hayabusa"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "長い",
+      "r": "ながい",
+      "pos": "i-adj",
+      "gloss": "long"
+    },
+    {
+      "s": "旅",
+      "r": "たび",
+      "pos": "noun",
+      "gloss": "voyage"
+    }
+  ],
+  "titleFr": "Le long voyage de Hayabusa",
+  "summary": "Une petite sonde japonaise, un astéroïde lointain, et sept ans d'aventure.",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "はやぶさ",
+          "pos": "name",
+          "gloss": "Hayabusa (faucon pèlerin)"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "小さな",
+          "r": "ちいさな",
+          "pos": "expr",
+          "gloss": "petit"
+        },
+        {
+          "s": "宇宙",
+          "r": "うちゅう",
+          "pos": "noun",
+          "gloss": "espace, univers"
+        },
+        {
+          "s": "探査機",
+          "r": "たんさき",
+          "pos": "noun",
+          "gloss": "sonde d'exploration"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "2003",
+          "pos": "number",
+          "gloss": "2003"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "打ち上げられて",
+          "r": "うちあげられて",
+          "pos": "verb",
+          "gloss": "être lancé",
+          "base": "打ち上げる",
+          "baseR": "うちあげる",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "、「",
+          "pos": "punct"
+        },
+        {
+          "s": "イトカワ",
+          "pos": "name",
+          "gloss": "Itokawa"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "小惑星",
+          "r": "しょうわくせい",
+          "pos": "noun",
+          "gloss": "astéroïde"
+        },
+        {
+          "s": "へ",
+          "pos": "particle",
+          "gloss": "vers"
+        },
+        {
+          "s": "向かいました",
+          "r": "むかいました",
+          "pos": "verb",
+          "gloss": "se diriger vers",
+          "base": "向かう",
+          "baseR": "むかう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Hayabusa est une petite sonde spatiale japonaise. Lancée en 2003, elle s'est dirigée vers un astéroïde appelé Itokawa."
+    },
+    {
+      "tokens": [
+        {
+          "s": "旅",
+          "r": "たび",
+          "pos": "noun",
+          "gloss": "voyage"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "とても",
+          "pos": "adv",
+          "gloss": "très"
+        },
+        {
+          "s": "大変",
+          "r": "たいへん",
+          "pos": "na-adj",
+          "gloss": "difficile, pénible"
+        },
+        {
+          "s": "でした",
+          "pos": "aux",
+          "gloss": "était (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "エンジン",
+          "pos": "noun",
+          "gloss": "moteur"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "壊れたり",
+          "r": "こわれたり",
+          "pos": "verb",
+          "gloss": "se casser (entre autres)",
+          "base": "壊れる",
+          "baseR": "こわれる",
+          "note": "〜たり〜たり : liste d'actions, « entre autres »."
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "地球",
+          "r": "ちきゅう",
+          "pos": "noun",
+          "gloss": "Terre"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "連絡",
+          "r": "れんらく",
+          "pos": "noun",
+          "gloss": "contact, communication"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "できなく",
+          "r": "できなく",
+          "pos": "verb",
+          "gloss": "ne plus pouvoir",
+          "base": "できる",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "なったり",
+          "pos": "verb",
+          "gloss": "devenir (entre autres)",
+          "base": "なる"
+        },
+        {
+          "s": "しました",
+          "pos": "verb",
+          "gloss": "faire",
+          "base": "する"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "一時",
+          "r": "いちじ",
+          "pos": "noun",
+          "gloss": "un moment, temporairement"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "もう",
+          "pos": "adv",
+          "gloss": "désormais, déjà"
+        },
+        {
+          "s": "帰れない",
+          "r": "かえれない",
+          "pos": "verb",
+          "gloss": "ne pas pouvoir rentrer",
+          "base": "帰る",
+          "baseR": "かえる",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "思われて",
+          "r": "おもわれて",
+          "pos": "verb",
+          "gloss": "être pensé",
+          "base": "思う",
+          "baseR": "おもう",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "いました",
+          "pos": "aux",
+          "gloss": "(état passé)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Le voyage a été très difficile. Les moteurs sont tombés en panne, le contact avec la Terre a été perdu… Pendant un moment, on a même cru qu'elle ne pourrait plus revenir."
+    },
+    {
+      "tokens": [
+        {
+          "s": "でも",
+          "pos": "conj",
+          "gloss": "mais"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "チーム",
+          "pos": "noun",
+          "gloss": "équipe"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "最後",
+          "r": "さいご",
+          "pos": "noun",
+          "gloss": "la fin"
+        },
+        {
+          "s": "まで",
+          "pos": "particle",
+          "gloss": "jusqu'à"
+        },
+        {
+          "s": "あきらめませんでした",
+          "pos": "verb",
+          "gloss": "ne pas abandonner",
+          "base": "あきらめる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "そして",
+          "pos": "conj",
+          "gloss": "et puis, ensuite"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "2010",
+          "pos": "number",
+          "gloss": "2010"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "はやぶさ",
+          "pos": "name",
+          "gloss": "Hayabusa"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "七年",
+          "r": "しちねん",
+          "pos": "noun",
+          "gloss": "sept ans"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "旅",
+          "r": "たび",
+          "pos": "noun",
+          "gloss": "voyage"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "終えて",
+          "r": "おえて",
+          "pos": "verb",
+          "gloss": "terminer",
+          "base": "終える",
+          "baseR": "おえる"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "地球",
+          "r": "ちきゅう",
+          "pos": "noun",
+          "gloss": "Terre"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "帰って",
+          "r": "かえって",
+          "pos": "verb",
+          "gloss": "rentrer",
+          "base": "帰る",
+          "baseR": "かえる"
+        },
+        {
+          "s": "きました",
+          "pos": "aux",
+          "gloss": "(revenir jusqu'ici)",
+          "base": "くる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mais l'équipe n'a jamais abandonné. Et en 2010, Hayabusa a achevé son voyage de sept ans et est revenue sur Terre."
+    },
+    {
+      "tokens": [
+        {
+          "s": "はやぶさ",
+          "pos": "name",
+          "gloss": "Hayabusa"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "持って",
+          "r": "もって",
+          "pos": "verb",
+          "gloss": "tenir, porter",
+          "base": "持つ",
+          "baseR": "もつ"
+        },
+        {
+          "s": "帰った",
+          "r": "かえった",
+          "pos": "verb",
+          "gloss": "avoir rapporté",
+          "base": "帰る",
+          "baseR": "かえる"
+        },
+        {
+          "s": "小さな",
+          "r": "ちいさな",
+          "pos": "expr",
+          "gloss": "petit"
+        },
+        {
+          "s": "砂",
+          "r": "すな",
+          "pos": "noun",
+          "gloss": "sable, poussière"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "調べる",
+          "r": "しらべる",
+          "pos": "verb",
+          "gloss": "étudier, analyser",
+          "base": "調べる",
+          "baseR": "しらべる"
+        },
+        {
+          "s": "ために",
+          "pos": "expr",
+          "gloss": "afin de",
+          "grammar": [
+            "n4-tame-ni"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "世界中",
+          "r": "せかいじゅう",
+          "pos": "noun",
+          "gloss": "le monde entier"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "科学者",
+          "r": "かがくしゃ",
+          "pos": "noun",
+          "gloss": "scientifique"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "集まりました",
+          "r": "あつまりました",
+          "pos": "verb",
+          "gloss": "se rassembler",
+          "base": "集まる",
+          "baseR": "あつまる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "小惑星",
+          "r": "しょうわくせい",
+          "pos": "noun",
+          "gloss": "astéroïde"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "砂",
+          "r": "すな",
+          "pos": "noun",
+          "gloss": "sable"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "持って",
+          "r": "もって",
+          "pos": "verb",
+          "gloss": "tenir, porter",
+          "base": "持つ",
+          "baseR": "もつ"
+        },
+        {
+          "s": "帰った",
+          "r": "かえった",
+          "pos": "verb",
+          "gloss": "avoir rapporté",
+          "base": "帰る",
+          "baseR": "かえる"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "世界",
+          "r": "せかい",
+          "pos": "noun",
+          "gloss": "monde"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "初めて",
+          "r": "はじめて",
+          "pos": "adv",
+          "gloss": "pour la première fois"
+        },
+        {
+          "s": "でした",
+          "pos": "aux",
+          "gloss": "était (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Des scientifiques du monde entier se sont réunis pour analyser les minuscules grains rapportés par Hayabusa. C'était la première fois au monde qu'on rapportait des échantillons d'un astéroïde."
+    }
+  ],
+  "grammarUsed": [
+    "n4-kanoukei",
+    "n4-tame-ni",
+    "n4-to-iu",
+    "n4-ukemi"
+  ]
+}

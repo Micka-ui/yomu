@@ -1,0 +1,196 @@
+{
+  "id": "n4-te-shimau",
+  "level": "N4",
+  "title": "〜てしまう",
+  "meaning": "finir complètement / faire (malheureusement, par mégarde)",
+  "structure": [
+    "Verbe (forme て) + しまう",
+    "Familier : 〜ちゃう (← てしまう), 〜じゃう (← でしまう)"
+  ],
+  "explanation": "`しまう` veut dire à l'origine « ranger, mettre de côté ». Placé après la forme en て d'un verbe, il indique que l'action est **complètement terminée**, qu'on ne peut plus revenir en arrière.\n\nDe là vient la deuxième nuance, très fréquente à l'oral : un **regret** ou une action **involontaire**. `忘れてしまった` ne dit pas seulement « j'ai oublié », mais « j'ai oublié (zut !) ».\n\nC'est le contexte qui fait la différence : avec un résultat positif (finir ses devoirs), on comprend « en entier » ; avec un résultat négatif (casser, perdre, oublier), on comprend le regret.",
+  "nuances": [
+    "À l'oral, `〜てしまう` devient presque toujours `〜ちゃう` et `〜でしまう` devient `〜じゃう` : `飲んじゃった`, `行っちゃった`.",
+    "Au passé (`〜てしまった`), la nuance de regret est la plus fréquente."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "宿題",
+          "r": "しゅくだい",
+          "pos": "noun",
+          "gloss": "devoirs"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "全部",
+          "r": "ぜんぶ",
+          "pos": "adv",
+          "gloss": "tout, entièrement"
+        },
+        {
+          "s": "やって",
+          "pos": "verb",
+          "gloss": "faire",
+          "base": "やる",
+          "note": "Forme て de やる."
+        },
+        {
+          "s": "しまった",
+          "pos": "aux",
+          "gloss": "(action terminée)",
+          "base": "しまう",
+          "grammar": [
+            "n4-te-shimau"
+          ],
+          "note": "Forme passée de しまう : l'action est complètement finie."
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'ai fini tous mes devoirs."
+    },
+    {
+      "tokens": [
+        {
+          "s": "電車",
+          "r": "でんしゃ",
+          "pos": "noun",
+          "gloss": "train"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "傘",
+          "r": "かさ",
+          "pos": "noun",
+          "gloss": "parapluie"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "忘れて",
+          "r": "わすれて",
+          "pos": "verb",
+          "gloss": "oublier",
+          "base": "忘れる",
+          "baseR": "わすれる"
+        },
+        {
+          "s": "しまいました",
+          "pos": "aux",
+          "gloss": "(par mégarde, avec regret)",
+          "base": "しまう",
+          "grammar": [
+            "n4-te-shimau"
+          ],
+          "note": "しまう + ました : regret poli."
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'ai oublié mon parapluie dans le train (zut)."
+    },
+    {
+      "tokens": [
+        {
+          "s": "ケーキ",
+          "pos": "noun",
+          "gloss": "gâteau"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "全部",
+          "r": "ぜんぶ",
+          "pos": "adv",
+          "gloss": "tout, entièrement"
+        },
+        {
+          "s": "食べちゃった",
+          "r": "たべちゃった",
+          "pos": "verb",
+          "gloss": "avoir tout mangé (oups)",
+          "base": "食べる",
+          "baseR": "たべる",
+          "grammar": [
+            "n4-te-shimau"
+          ],
+          "note": "食べてしまった → 食べちゃった (familier)."
+        },
+        {
+          "s": "！",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'ai mangé tout le gâteau !"
+    },
+    {
+      "tokens": [
+        {
+          "s": "大事",
+          "r": "だいじ",
+          "pos": "na-adj",
+          "gloss": "important, précieux"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "データ",
+          "pos": "noun",
+          "gloss": "données"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "消えて",
+          "r": "きえて",
+          "pos": "verb",
+          "gloss": "disparaître, s'effacer",
+          "base": "消える",
+          "baseR": "きえる"
+        },
+        {
+          "s": "しまった",
+          "pos": "aux",
+          "gloss": "(malheureusement)",
+          "base": "しまう",
+          "grammar": [
+            "n4-te-shimau"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mes données importantes se sont effacées."
+    }
+  ],
+  "related": [
+    "n4-te-oku"
+  ]
+}

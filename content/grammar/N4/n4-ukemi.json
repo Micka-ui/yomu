@@ -1,0 +1,170 @@
+{
+  "id": "n4-ukemi",
+  "level": "N4",
+  "title": "受身形 (〜れる / 〜られる)",
+  "meaning": "la forme passive",
+  "structure": [
+    "Groupe 1 : 書く → 書かれる (u → a + れる)",
+    "Groupe 2 : 食べる → 食べられる",
+    "する → される ／ 来る → 来られる",
+    "Agent : Nom + に (ou によって)"
+  ],
+  "explanation": "La forme passive met en avant **celui qui subit l'action**. L'auteur de l'action est marqué par `に` : `先生に褒められた` = « j'ai été félicité par le professeur ».\n\nElle sert aussi beaucoup dans les textes d'information pour parler de choses **créées, construites, utilisées** sans préciser par qui : `このお寺は八百年前に建てられた` = « ce temple a été construit il y a 800 ans ».\n\nParticularité japonaise : le **passif de nuisance**. Quand quelqu'un subit une action désagréable, même un verbe intransitif peut être au passif : `雨に降られた` = « je me suis fait surprendre par la pluie ».",
+  "nuances": [
+    "Pour les verbes du groupe 2, la forme passive et la forme potentielle sont identiques (`食べられる`). C'est le contexte qui tranche."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "お寺",
+          "r": "おてら",
+          "pos": "noun",
+          "gloss": "temple bouddhiste"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "八百年",
+          "r": "はっぴゃくねん",
+          "pos": "noun",
+          "gloss": "800 ans"
+        },
+        {
+          "s": "前",
+          "r": "まえ",
+          "pos": "noun",
+          "gloss": "il y a, avant"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "建てられました",
+          "r": "たてられました",
+          "pos": "verb",
+          "gloss": "a été construit",
+          "base": "建てる",
+          "baseR": "たてる",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ce temple a été construit il y a 800 ans."
+    },
+    {
+      "tokens": [
+        {
+          "s": "弟",
+          "r": "おとうと",
+          "pos": "noun",
+          "gloss": "petit frère"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "ケーキ",
+          "pos": "noun",
+          "gloss": "gâteau"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "食べられた",
+          "r": "たべられた",
+          "pos": "verb",
+          "gloss": "s'est fait manger (nuisance)",
+          "base": "食べる",
+          "baseR": "たべる",
+          "grammar": [
+            "n4-ukemi"
+          ],
+          "note": "Passif de nuisance : je subis le fait que mon frère ait mangé le gâteau."
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mon petit frère a mangé mon gâteau (et j'en souffre)."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "歌",
+          "r": "うた",
+          "pos": "noun",
+          "gloss": "chanson"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "世界中",
+          "r": "せかいじゅう",
+          "pos": "noun",
+          "gloss": "le monde entier"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "歌われて",
+          "r": "うたわれて",
+          "pos": "verb",
+          "gloss": "être chanté",
+          "base": "歌う",
+          "baseR": "うたう",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état actuel)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Cette chanson est chantée dans le monde entier."
+    }
+  ],
+  "related": [
+    "n4-kanoukei",
+    "n3-ni-yotte"
+  ]
+}

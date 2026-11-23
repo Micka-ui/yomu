@@ -1,0 +1,6 @@
+[
+  { "id": "jeux-video", "label": "Jeux vidéo", "emoji": "🎮", "description": "Histoire du jeu vidéo japonais, studios, consoles, coulisses de création.", "active": true },
+  { "id": "manga-anime", "label": "Manga & anime", "emoji": "📚", "description": "Mangakas, studios d'animation, histoire et culture otaku.", "active": true },
+  { "id": "culture-histoire", "label": "Culture & histoire", "emoji": "⛩️", "description": "Traditions, folklore (yōkai), fêtes, périodes historiques, vie quotidienne.", "active": true },
+  { "id": "sciences-tech", "label": "Sciences & tech", "emoji": "🔭", "description": "Espace, animaux, inventions japonaises, curiosités scientifiques.", "active": true }
+]

@@ -1,0 +1,188 @@
+{
+  "id": "n4-kanoukei",
+  "level": "N4",
+  "title": "可能形 (〜える / 〜られる)",
+  "meaning": "la forme potentielle : pouvoir, savoir faire",
+  "structure": [
+    "Groupe 1 : 読む → 読める (u → e + る)",
+    "Groupe 2 : 見る → 見られる",
+    "する → できる ／ 来る → 来られる",
+    "L'objet prend souvent が au lieu de を"
+  ],
+  "explanation": "La forme potentielle exprime la **capacité** ou la **possibilité** : « pouvoir, savoir faire ».\n\nPour le groupe 1, on change le `u` final en `e` et on ajoute `る` : `書く → 書ける`, `話す → 話せる`. Pour le groupe 2, on remplace `る` par `られる`. `する` devient `できる`.\n\nLa forme obtenue se conjugue comme un verbe du groupe 2 : `読めない`, `読めた`, `読めます`.\n\nL'objet est souvent marqué par `が` : `漢字が読める` (plus naturel que `漢字を読める`).",
+  "nuances": [
+    "À l'oral, `見られる` devient souvent `見れる` (forme « ra-nuki »), courante mais jugée peu soignée."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "私",
+          "r": "わたし",
+          "pos": "pron",
+          "gloss": "je, moi"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "漢字",
+          "r": "かんじ",
+          "pos": "noun",
+          "gloss": "kanji"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "少し",
+          "r": "すこし",
+          "pos": "adv",
+          "gloss": "un peu"
+        },
+        {
+          "s": "読めます",
+          "r": "よめます",
+          "pos": "verb",
+          "gloss": "pouvoir lire",
+          "base": "読む",
+          "baseR": "よむ",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je sais lire un peu de kanji."
+    },
+    {
+      "tokens": [
+        {
+          "s": "ここ",
+          "pos": "pron",
+          "gloss": "ici"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "富士山",
+          "r": "ふじさん",
+          "pos": "name",
+          "gloss": "mont Fuji"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "見られる",
+          "r": "みられる",
+          "pos": "verb",
+          "gloss": "pouvoir voir",
+          "base": "見る",
+          "baseR": "みる",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "D'ici, on peut voir le mont Fuji."
+    },
+    {
+      "tokens": [
+        {
+          "s": "明日",
+          "r": "あした",
+          "pos": "noun",
+          "gloss": "demain"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "来られます",
+          "r": "こられます",
+          "pos": "verb",
+          "gloss": "pouvoir venir",
+          "base": "来る",
+          "baseR": "くる",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "か",
+          "pos": "particle",
+          "gloss": "particule interrogative"
+        },
+        {
+          "s": "？",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Pouvez-vous venir demain ?"
+    },
+    {
+      "tokens": [
+        {
+          "s": "一人",
+          "r": "ひとり",
+          "pos": "noun",
+          "gloss": "seul, une personne"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "料理",
+          "r": "りょうり",
+          "pos": "noun",
+          "gloss": "cuisine"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "できない",
+          "pos": "verb",
+          "gloss": "ne pas pouvoir faire",
+          "base": "できる",
+          "grammar": [
+            "n4-kanoukei"
+          ],
+          "note": "できる = forme potentielle de する."
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je ne sais pas cuisiner seul(e)."
+    }
+  ],
+  "related": [
+    "n3-you-ni-naru",
+    "n4-ukemi"
+  ]
+}

@@ -1,0 +1,88 @@
+name: Générer du contenu
+
+run-name: "${{ inputs.type == 'text' && '📖 Texte' || '🧩 Leçon' }} ${{ inputs.level }} ${{ inputs.interest }} ${{ inputs.topic }}"
+
+on:
+  workflow_dispatch:
+    inputs:
+      type:
+        description: "text ou grammar"
+        type: choice
+        options: [text, grammar]
+        default: text
+      level:
+        description: "Niveau JLPT"
+        type: choice
+        options: [N5, N4, N3, N2, N1]
+        default: N4
+      interest:
+        description: "Centre d'intérêt (id de content/interests.json ou texte libre)"
+        type: string
+        required: false
+      topic:
+        description: "Sujet précis / point de grammaire (facultatif)"
+        type: string
+        required: false
+  # Pour recevoir un texte automatiquement chaque lundi, décommente :
+  # schedule:
+  #   - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: generate
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Claude écrit le contenu
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: >-
+            --max-turns 80
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(npm run validate),Bash(date:*),Bash(ls:*),Bash(cat:*)"
+          prompt: |
+            Tu travailles sur Yomu, une app de lecture du japonais pour un apprenant francophone.
+            Lis d'abord CLAUDE.md, puis suis exactement le guide correspondant :
+            - type "text"    → prompts/generate-text.md
+            - type "grammar" → prompts/generate-grammar.md
+
+            Demande :
+            - type : ${{ inputs.type || 'text' }}
+            - niveau : ${{ inputs.level || 'N4' }}
+            - centre d'intérêt : ${{ inputs.interest || '(au choix parmi les intérêts actifs, en variant par rapport aux derniers textes)' }}
+            - précision : ${{ inputs.topic || '(aucune : choisis toi-même)' }}
+
+            Termine seulement quand `npm run validate` passe sans erreur.
+            Ne fais PAS de commit : le workflow s'en charge.
+
+      - name: Vérifier et committer
+        run: |
+          npm run validate
+          git config user.name "yomu-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "::error::Aucun contenu n'a été ajouté."
+            exit 1
+          fi
+          git commit -m "contenu : ${{ inputs.type || 'text' }} ${{ inputs.level }} ${{ inputs.interest }}"
+          git push
+
+  deploy:
+    needs: generate
+    uses: ./.github/workflows/deploy.yml

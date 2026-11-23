@@ -1,0 +1,161 @@
+{
+  "id": "n3-koto-ni-naru",
+  "level": "N3",
+  "title": "〜ことになる",
+  "meaning": "il a été décidé que… / finir par…",
+  "structure": [
+    "Verbe (forme dictionnaire / ない) + ことになる",
+    "Comparer : 〜ことにする (décision personnelle)"
+  ],
+  "explanation": "`〜ことになる` annonce une **décision ou un résultat qui ne dépend pas (seulement) du locuteur** : une décision de l'entreprise, des circonstances, d'un groupe. `大阪に引っ越すことになった` = « il a été décidé que je déménage à Osaka » (par exemple à cause du travail).\n\nC'est aussi une manière modeste d'annoncer une nouvelle, même quand on a participé à la décision : on présente la chose comme le résultat naturel des événements.\n\nAu présent, il peut décrire une **conséquence logique** : `このままだと、大変なことになる` = « si ça continue comme ça, ça va mal finir ».\n\nSon jumeau `〜ことにする` exprime au contraire une **décision personnelle** : `毎日走ることにした` = « j'ai décidé de courir tous les jours ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "来月",
+          "r": "らいげつ",
+          "pos": "noun",
+          "gloss": "le mois prochain"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "大阪",
+          "r": "おおさか",
+          "pos": "name",
+          "gloss": "Osaka"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "引っ越す",
+          "r": "ひっこす",
+          "pos": "verb",
+          "gloss": "déménager",
+          "base": "引っ越す",
+          "baseR": "ひっこす"
+        },
+        {
+          "s": "ことになりました",
+          "pos": "expr",
+          "gloss": "il a été décidé que",
+          "base": "ことになる",
+          "grammar": [
+            "n3-koto-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il a été décidé que je déménage à Osaka le mois prochain."
+    },
+    {
+      "tokens": [
+        {
+          "s": "会議",
+          "r": "かいぎ",
+          "pos": "noun",
+          "gloss": "réunion"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "金曜日",
+          "r": "きんようび",
+          "pos": "noun",
+          "gloss": "vendredi"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "行う",
+          "r": "おこなう",
+          "pos": "verb",
+          "gloss": "tenir, organiser",
+          "base": "行う",
+          "baseR": "おこなう"
+        },
+        {
+          "s": "ことになった",
+          "pos": "expr",
+          "gloss": "il a été décidé que",
+          "base": "ことになる",
+          "grammar": [
+            "n3-koto-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il a été décidé que la réunion aurait lieu vendredi."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "まま",
+          "pos": "noun",
+          "gloss": "tel quel"
+        },
+        {
+          "s": "だと",
+          "pos": "expr",
+          "gloss": "si (c'est ainsi)"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "大変",
+          "r": "たいへん",
+          "pos": "na-adj",
+          "gloss": "terrible, grave"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "ことになる",
+          "pos": "expr",
+          "gloss": "finir par (conséquence)",
+          "base": "ことになる",
+          "grammar": [
+            "n3-koto-ni-naru"
+          ]
+        },
+        {
+          "s": "よ",
+          "pos": "particle",
+          "gloss": "particule d'affirmation"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Si ça continue comme ça, ça va mal finir."
+    }
+  ]
+}

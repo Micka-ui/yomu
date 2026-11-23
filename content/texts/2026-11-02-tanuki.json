@@ -1,0 +1,812 @@
+{
+  "id": "2026-11-02-tanuki",
+  "date": "2026-11-02",
+  "level": "N4",
+  "interest": "culture-histoire",
+  "title": [
+    {
+      "s": "店",
+      "r": "みせ",
+      "pos": "noun",
+      "gloss": "boutique"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "前",
+      "r": "まえ",
+      "pos": "noun",
+      "gloss": "devant"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "たぬき",
+      "pos": "noun",
+      "gloss": "tanuki (chien viverrin)"
+    }
+  ],
+  "titleFr": "Le tanuki devant les boutiques",
+  "summary": "Pourquoi tant de commerces japonais accueillent-ils leurs clients avec une statue de tanuki ?",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "町",
+          "r": "まち",
+          "pos": "noun",
+          "gloss": "ville, quartier"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "歩いて",
+          "r": "あるいて",
+          "pos": "verb",
+          "gloss": "marcher",
+          "base": "歩く",
+          "baseR": "あるく"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "quand (toujours)",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "店",
+          "r": "みせ",
+          "pos": "noun",
+          "gloss": "boutique, restaurant"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "前",
+          "r": "まえ",
+          "pos": "noun",
+          "gloss": "devant"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "大きな",
+          "r": "おおきな",
+          "pos": "expr",
+          "gloss": "grand"
+        },
+        {
+          "s": "たぬき",
+          "pos": "noun",
+          "gloss": "tanuki"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "置物",
+          "r": "おきもの",
+          "pos": "noun",
+          "gloss": "statuette, objet décoratif"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "よく",
+          "pos": "adv",
+          "gloss": "souvent"
+        },
+        {
+          "s": "見ます",
+          "r": "みます",
+          "pos": "verb",
+          "gloss": "voir",
+          "base": "見る",
+          "baseR": "みる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "笠",
+          "r": "かさ",
+          "pos": "noun",
+          "gloss": "chapeau de paille"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "かぶって",
+          "pos": "verb",
+          "gloss": "porter (sur la tête)",
+          "base": "かぶる"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "お酒",
+          "r": "おさけ",
+          "pos": "noun",
+          "gloss": "saké, alcool"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "とっくり",
+          "pos": "noun",
+          "gloss": "flacon à saké"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "持って",
+          "r": "もって",
+          "pos": "verb",
+          "gloss": "tenir",
+          "base": "持つ",
+          "baseR": "もつ"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "たぬき",
+          "pos": "noun",
+          "gloss": "tanuki"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Quand on se promène dans une ville japonaise, on voit souvent de grandes statuettes de tanuki devant les boutiques. Ce sont des tanuki qui portent un chapeau de paille et tiennent un flacon de saké."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette (près de moi)"
+        },
+        {
+          "s": "置物",
+          "r": "おきもの",
+          "pos": "noun",
+          "gloss": "statuette"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "滋賀県",
+          "r": "しがけん",
+          "pos": "name",
+          "gloss": "préfecture de Shiga"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "信楽",
+          "r": "しがらき",
+          "pos": "name",
+          "gloss": "Shigaraki"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "町",
+          "r": "まち",
+          "pos": "noun",
+          "gloss": "ville"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "たくさん",
+          "pos": "adv",
+          "gloss": "beaucoup"
+        },
+        {
+          "s": "作られて",
+          "r": "つくられて",
+          "pos": "verb",
+          "gloss": "être fabriqué",
+          "base": "作る",
+          "baseR": "つくる",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état actuel)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "たぬき",
+          "pos": "noun",
+          "gloss": "tanuki"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "他",
+          "r": "た",
+          "pos": "noun",
+          "gloss": "les autres"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "抜く",
+          "r": "ぬく",
+          "pos": "verb",
+          "gloss": "dépasser",
+          "base": "抜く",
+          "baseR": "ぬく"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "同じ",
+          "r": "おなじ",
+          "pos": "na-adj",
+          "gloss": "même, identique"
+        },
+        {
+          "s": "音",
+          "r": "おと",
+          "pos": "noun",
+          "gloss": "son"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "聞こえる",
+          "r": "きこえる",
+          "pos": "verb",
+          "gloss": "s'entendre, sonner comme",
+          "base": "聞こえる",
+          "baseR": "きこえる"
+        },
+        {
+          "s": "ので",
+          "pos": "conj",
+          "gloss": "comme, parce que"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "商売",
+          "r": "しょうばい",
+          "pos": "noun",
+          "gloss": "commerce"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "いい",
+          "pos": "i-adj",
+          "gloss": "bon"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "言われて",
+          "r": "いわれて",
+          "pos": "verb",
+          "gloss": "être dit",
+          "base": "言う",
+          "baseR": "いう",
+          "grammar": [
+            "n4-ukemi"
+          ],
+          "note": "と言われている : « on dit que »."
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ces statuettes sont fabriquées en grand nombre dans une ville appelée Shigaraki, dans la préfecture de Shiga. Comme « tanuki » sonne comme « ta wo nuku » (dépasser les autres), on dit qu'il porte chance au commerce."
+    },
+    {
+      "tokens": [
+        {
+          "s": "昔",
+          "r": "むかし",
+          "pos": "noun",
+          "gloss": "autrefois"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "話",
+          "r": "はなし",
+          "pos": "noun",
+          "gloss": "histoire, conte"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "たぬき",
+          "pos": "noun",
+          "gloss": "tanuki"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "les gens"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "だます",
+          "pos": "verb",
+          "gloss": "tromper, duper",
+          "base": "だます"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "好き",
+          "r": "すき",
+          "pos": "na-adj",
+          "gloss": "aimer"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "動物",
+          "r": "どうぶつ",
+          "pos": "noun",
+          "gloss": "animal"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "頭",
+          "r": "あたま",
+          "pos": "noun",
+          "gloss": "tête"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "木の葉",
+          "r": "このは",
+          "pos": "noun",
+          "gloss": "feuille d'arbre"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "のせる",
+          "pos": "verb",
+          "gloss": "poser dessus",
+          "base": "のせる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "dès que",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "personne"
+        },
+        {
+          "s": "や",
+          "pos": "particle",
+          "gloss": "et (liste non exhaustive)"
+        },
+        {
+          "s": "物",
+          "r": "もの",
+          "pos": "noun",
+          "gloss": "objet"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "化ける",
+          "r": "ばける",
+          "pos": "verb",
+          "gloss": "se transformer (magiquement)",
+          "base": "化ける",
+          "baseR": "ばける"
+        },
+        {
+          "s": "こと",
+          "pos": "noun",
+          "gloss": "chose, fait (abstrait)"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "できる",
+          "pos": "verb",
+          "gloss": "pouvoir",
+          "base": "できる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "言われて",
+          "r": "いわれて",
+          "pos": "verb",
+          "gloss": "être dit",
+          "base": "言う",
+          "baseR": "いう",
+          "grammar": [
+            "n4-ukemi"
+          ],
+          "note": "と言われている : « on dit que »."
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Dans les contes d'autrefois, le tanuki est un animal qui adore jouer des tours aux humains. On dit que s'il pose une feuille d'arbre sur sa tête, il peut se transformer en personne ou en objet."
+    },
+    {
+      "tokens": [
+        {
+          "s": "でも",
+          "pos": "conj",
+          "gloss": "mais"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "本物",
+          "r": "ほんもの",
+          "pos": "noun",
+          "gloss": "le vrai, l'authentique"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "たぬき",
+          "pos": "noun",
+          "gloss": "tanuki"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "静か",
+          "r": "しずか",
+          "pos": "na-adj",
+          "gloss": "calme, silencieux"
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "恥ずかしがり",
+          "r": "はずかしがり",
+          "pos": "noun",
+          "gloss": "timide (de nature)"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "動物",
+          "r": "どうぶつ",
+          "pos": "noun",
+          "gloss": "animal"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "夜",
+          "r": "よる",
+          "pos": "noun",
+          "gloss": "nuit"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "山",
+          "r": "やま",
+          "pos": "noun",
+          "gloss": "montagne"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "近く",
+          "r": "ちかく",
+          "pos": "noun",
+          "gloss": "près de, alentours"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "歩いたら",
+          "r": "あるいたら",
+          "pos": "verb",
+          "gloss": "si on marche",
+          "base": "歩く",
+          "baseR": "あるく",
+          "grammar": [
+            "n4-tara"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "会える",
+          "r": "あえる",
+          "pos": "verb",
+          "gloss": "pouvoir rencontrer",
+          "base": "会う",
+          "baseR": "あう",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "かもしれません",
+          "pos": "expr",
+          "gloss": "peut-être",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mais les vrais tanuki sont des animaux calmes et timides. Si tu te promènes la nuit près des montagnes, tu en croiseras peut-être un."
+    }
+  ],
+  "grammarUsed": [
+    "n4-ba-to",
+    "n4-kamoshirenai",
+    "n4-kanoukei",
+    "n4-tara",
+    "n4-to-iu",
+    "n4-ukemi"
+  ]
+}

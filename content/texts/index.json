@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2026-11-23-shinkansen",
+    "date": "2026-11-23",
+    "level": "N3",
+    "interest": "sciences-tech",
+    "title": "新幹線のひみつ",
+    "titleFr": "Les secrets du Shinkansen",
+    "summary": "Depuis 1964, le train à grande vitesse japonais fascine par sa ponctualité et son efficacité.",
+    "grammarUsed": [
+      "n3-to-shite",
+      "n3-uchi-ni",
+      "n3-wake-da",
+      "n3-you-ni-naru",
+      "n4-kanoukei",
+      "n4-ukemi"
+    ],
+    "chars": 254
+  },
+  {
+    "id": "2026-11-16-hayabusa",
+    "date": "2026-11-16",
+    "level": "N4",
+    "interest": "sciences-tech",
+    "title": "はやぶさの長い旅",
+    "titleFr": "Le long voyage de Hayabusa",
+    "summary": "Une petite sonde japonaise, un astéroïde lointain, et sept ans d'aventure.",
+    "grammarUsed": [
+      "n4-kanoukei",
+      "n4-tame-ni",
+      "n4-to-iu",
+      "n4-ukemi"
+    ],
+    "chars": 237
+  },
+  {
+    "id": "2026-11-09-kappa",
+    "date": "2026-11-09",
+    "level": "N3",
+    "interest": "culture-histoire",
+    "title": "川に住む妖怪、河童",
+    "titleFr": "Le kappa, yōkai des rivières",
+    "summary": "Une créature à carapace, une assiette sur la tête… et une passion pour le concombre.",
+    "grammarUsed": [
+      "n3-ni-yotte",
+      "n3-rashii",
+      "n3-you-ni-naru",
+      "n4-ba-to",
+      "n4-kamoshirenai",
+      "n4-tame-ni",
+      "n4-te-shimau",
+      "n4-ukemi"
+    ],
+    "chars": 227
+  },
+  {
+    "id": "2026-11-02-tanuki",
+    "date": "2026-11-02",
+    "level": "N4",
+    "interest": "culture-histoire",
+    "title": "店の前のたぬき",
+    "titleFr": "Le tanuki devant les boutiques",
+    "summary": "Pourquoi tant de commerces japonais accueillent-ils leurs clients avec une statue de tanuki ?",
+    "grammarUsed": [
+      "n4-ba-to",
+      "n4-kamoshirenai",
+      "n4-kanoukei",
+      "n4-tara",
+      "n4-to-iu",
+      "n4-ukemi"
+    ],
+    "chars": 232
+  },
+  {
+    "id": "2026-10-26-tezuka",
+    "date": "2026-10-26",
+    "level": "N3",
+    "interest": "manga-anime",
+    "title": "「マンガの神様」手塚治虫",
+    "titleFr": "« Le dieu du manga » : Osamu Tezuka",
+    "summary": "Un médecin diplômé qui a choisi le crayon plutôt que le stéthoscope.",
+    "grammarUsed": [
+      "n3-bakari",
+      "n3-koto-ni-naru",
+      "n3-ni-yotte",
+      "n3-rashii",
+      "n3-to-shite",
+      "n3-you-ni-naru",
+      "n4-kanoukei",
+      "n4-ukemi"
+    ],
+    "chars": 284
+  },
+  {
+    "id": "2026-10-19-famicom",
+    "date": "2026-10-19",
+    "level": "N4",
+    "interest": "jeux-video",
+    "title": "ファミコンと花札の会社",
+    "titleFr": "La Famicom et l'entreprise de cartes à fleurs",
+    "summary": "Comment une vieille entreprise de Kyoto a fait entrer le jeu vidéo dans les foyers japonais.",
+    "grammarUsed": [
+      "n3-you-ni-naru",
+      "n4-kamoshirenai",
+      "n4-kanoukei",
+      "n4-tara",
+      "n4-to-iu",
+      "n4-ukemi"
+    ],
+    "chars": 299
+  }
+]

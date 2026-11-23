@@ -1,0 +1,180 @@
+{
+  "id": "n3-uchi-ni",
+  "level": "N3",
+  "title": "〜うちに",
+  "meaning": "pendant que (c'est encore possible) / au fil de",
+  "structure": [
+    "Verbe (forme dico / ている / ない) + うちに",
+    "Adj. い + うちに ／ Adj. な + な + うちに",
+    "Nom + の + うちに"
+  ],
+  "explanation": "`うちに` signifie « dans l'intervalle de ». Deux usages :\n\n1. **Profiter d'un moment avant qu'il ne change** : `温かいうちに食べて` = « mange pendant que c'est chaud » (avant que ça refroidisse). `若いうちに` = « tant qu'on est jeune ».\n\n2. **Un changement qui survient au fil d'une action**, souvent sans qu'on s'en rende compte : `話しているうちに好きになった` = « à force de discuter, j'ai fini par l'apprécier ».\n\nAvec la forme négative : `暗くならないうちに帰ろう` = « rentrons avant qu'il ne fasse nuit ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "温かい",
+          "r": "あたたかい",
+          "pos": "i-adj",
+          "gloss": "chaud"
+        },
+        {
+          "s": "うちに",
+          "pos": "expr",
+          "gloss": "pendant que (encore)",
+          "grammar": [
+            "n3-uchi-ni"
+          ]
+        },
+        {
+          "s": "食べて",
+          "r": "たべて",
+          "pos": "verb",
+          "gloss": "manger",
+          "base": "食べる",
+          "baseR": "たべる"
+        },
+        {
+          "s": "ください",
+          "pos": "aux",
+          "gloss": "s'il vous plaît",
+          "base": "くださる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Mangez pendant que c'est chaud."
+    },
+    {
+      "tokens": [
+        {
+          "s": "若い",
+          "r": "わかい",
+          "pos": "i-adj",
+          "gloss": "jeune"
+        },
+        {
+          "s": "うちに",
+          "pos": "expr",
+          "gloss": "tant que",
+          "grammar": [
+            "n3-uchi-ni"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "いろいろ",
+          "pos": "na-adj",
+          "gloss": "divers"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "国",
+          "r": "くに",
+          "pos": "noun",
+          "gloss": "pays"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "行きたい",
+          "r": "いきたい",
+          "pos": "verb",
+          "gloss": "vouloir aller",
+          "base": "行く",
+          "baseR": "いく"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Tant que je suis jeune, je veux aller dans plein de pays."
+    },
+    {
+      "tokens": [
+        {
+          "s": "話して",
+          "r": "はなして",
+          "pos": "verb",
+          "gloss": "parler",
+          "base": "話す",
+          "baseR": "はなす"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "うちに",
+          "pos": "expr",
+          "gloss": "au fil de",
+          "grammar": [
+            "n3-uchi-ni"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "彼",
+          "r": "かれ",
+          "pos": "pron",
+          "gloss": "il, lui"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "こと",
+          "pos": "noun",
+          "gloss": "(ce qui concerne)"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "好き",
+          "r": "すき",
+          "pos": "na-adj",
+          "gloss": "aimé, apprécié"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "なった",
+          "pos": "verb",
+          "gloss": "être devenu",
+          "base": "なる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "À force de discuter avec lui, j'ai fini par l'apprécier."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "n3-you-ni-naru",
+  "level": "N3",
+  "title": "〜ようになる",
+  "meaning": "en venir à…, devenir capable de… (changement progressif)",
+  "structure": [
+    "Verbe (forme dictionnaire / potentielle) + ようになる",
+    "Négatif : Verbe (forme ない) + ようになる / なくなる"
+  ],
+  "explanation": "`〜ようになる` décrit un **changement d'état progressif** : une chose qui n'était pas possible ou pas habituelle le devient.\n\nAvec la forme potentielle, on parle d'une **capacité acquise** : `泳げるようになった` = « je suis devenu capable de nager ».\n\nAvec un verbe ordinaire, on parle d'une **nouvelle habitude** : `毎朝走るようになった` = « j'ai pris l'habitude de courir chaque matin ».\n\nC'est une forme parfaite pour raconter une évolution, une histoire, un progrès. On la croise très souvent dans les textes sur l'histoire d'une invention ou d'une personne.",
+  "nuances": [
+    "À ne pas confondre avec `〜ようにする` (« faire en sorte de »), qui exprime un effort volontaire."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "毎日",
+          "r": "まいにち",
+          "pos": "noun",
+          "gloss": "tous les jours"
+        },
+        {
+          "s": "練習して",
+          "r": "れんしゅうして",
+          "pos": "verb",
+          "gloss": "s'entraîner",
+          "base": "練習する",
+          "baseR": "れんしゅうする"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "泳げる",
+          "r": "およげる",
+          "pos": "verb",
+          "gloss": "pouvoir nager",
+          "base": "泳ぐ",
+          "baseR": "およぐ"
+        },
+        {
+          "s": "ようになった",
+          "pos": "expr",
+          "gloss": "être devenu (capable)",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "En m'entraînant tous les jours, je suis devenu capable de nager."
+    },
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "来て",
+          "r": "きて",
+          "pos": "verb",
+          "gloss": "venir",
+          "base": "来る",
+          "baseR": "くる"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "納豆",
+          "r": "なっとう",
+          "pos": "noun",
+          "gloss": "nattō (soja fermenté)"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "食べられる",
+          "r": "たべられる",
+          "pos": "verb",
+          "gloss": "pouvoir manger",
+          "base": "食べる",
+          "baseR": "たべる"
+        },
+        {
+          "s": "ようになりました",
+          "pos": "expr",
+          "gloss": "en être venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Depuis que je suis venu au Japon, j'arrive à manger du nattō."
+    },
+    {
+      "tokens": [
+        {
+          "s": "最近",
+          "r": "さいきん",
+          "pos": "noun",
+          "gloss": "récemment"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "自分",
+          "r": "じぶん",
+          "pos": "pron",
+          "gloss": "soi-même"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "服",
+          "r": "ふく",
+          "pos": "noun",
+          "gloss": "vêtements"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "着る",
+          "r": "きる",
+          "pos": "verb",
+          "gloss": "mettre (un vêtement)",
+          "base": "着る",
+          "baseR": "きる"
+        },
+        {
+          "s": "ようになった",
+          "pos": "expr",
+          "gloss": "en être venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Récemment, mon enfant s'habille tout seul."
+    }
+  ],
+  "related": [
+    "n4-kanoukei"
+  ]
+}

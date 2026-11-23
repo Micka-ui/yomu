@@ -1,0 +1,177 @@
+{
+  "id": "n3-to-shite",
+  "level": "N3",
+  "title": "〜として",
+  "meaning": "en tant que, comme",
+  "structure": [
+    "Nom + として (+ verbe)",
+    "Nom + としての + Nom"
+  ],
+  "explanation": "`として` indique le **rôle, le statut ou la fonction** dans lequel on considère quelqu'un ou quelque chose : « en tant que, comme ».\n\n`医者として働く` = « travailler comme médecin ». `京都は古い町として知られている` = « Kyoto est connue en tant que ville ancienne ».\n\nDevant un nom : `作家としての人生` = « sa vie en tant qu'écrivain ».\n\nOn le trouve énormément dans les biographies et les textes de présentation : « connu comme », « utilisé comme », « né comme ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "彼",
+          "r": "かれ",
+          "pos": "pron",
+          "gloss": "il, lui"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "医者",
+          "r": "いしゃ",
+          "pos": "noun",
+          "gloss": "médecin"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "en tant que",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "病院",
+          "r": "びょういん",
+          "pos": "noun",
+          "gloss": "hôpital"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "働いて",
+          "r": "はたらいて",
+          "pos": "verb",
+          "gloss": "travailler",
+          "base": "働く",
+          "baseR": "はたらく"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il travaille comme médecin à l'hôpital."
+    },
+    {
+      "tokens": [
+        {
+          "s": "京都",
+          "r": "きょうと",
+          "pos": "name",
+          "gloss": "Kyoto"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "古い",
+          "r": "ふるい",
+          "pos": "i-adj",
+          "gloss": "ancien"
+        },
+        {
+          "s": "町",
+          "r": "まち",
+          "pos": "noun",
+          "gloss": "ville"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "en tant que",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "知られて",
+          "r": "しられて",
+          "pos": "verb",
+          "gloss": "être connu",
+          "base": "知る",
+          "baseR": "しる",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Kyoto est connue comme une ville ancienne."
+    },
+    {
+      "tokens": [
+        {
+          "s": "趣味",
+          "r": "しゅみ",
+          "pos": "noun",
+          "gloss": "loisir, passe-temps"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "comme",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "絵",
+          "r": "え",
+          "pos": "noun",
+          "gloss": "dessin, peinture"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "描いて",
+          "r": "かいて",
+          "pos": "verb",
+          "gloss": "dessiner",
+          "base": "描く",
+          "baseR": "かく"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(habitude)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je dessine comme loisir."
+    }
+  ]
+}

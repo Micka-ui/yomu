@@ -1,0 +1,799 @@
+{
+  "id": "2026-11-09-kappa",
+  "date": "2026-11-09",
+  "level": "N3",
+  "interest": "culture-histoire",
+  "title": [
+    {
+      "s": "川",
+      "r": "かわ",
+      "pos": "noun",
+      "gloss": "rivière"
+    },
+    {
+      "s": "に",
+      "pos": "particle",
+      "gloss": "à / dans / vers (lieu, temps, cible)"
+    },
+    {
+      "s": "住む",
+      "r": "すむ",
+      "pos": "verb",
+      "gloss": "habiter",
+      "base": "住む",
+      "baseR": "すむ"
+    },
+    {
+      "s": "妖怪",
+      "r": "ようかい",
+      "pos": "noun",
+      "gloss": "yōkai"
+    },
+    {
+      "s": "、",
+      "pos": "punct"
+    },
+    {
+      "s": "河童",
+      "r": "かっぱ",
+      "pos": "noun",
+      "gloss": "kappa"
+    }
+  ],
+  "titleFr": "Le kappa, yōkai des rivières",
+  "summary": "Une créature à carapace, une assiette sur la tête… et une passion pour le concombre.",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "河童",
+          "r": "かっぱ",
+          "pos": "noun",
+          "gloss": "kappa"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "川",
+          "r": "かわ",
+          "pos": "noun",
+          "gloss": "rivière"
+        },
+        {
+          "s": "や",
+          "pos": "particle",
+          "gloss": "et (liste non exhaustive)"
+        },
+        {
+          "s": "池",
+          "r": "いけ",
+          "pos": "noun",
+          "gloss": "étang"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "住んで",
+          "r": "すんで",
+          "pos": "verb",
+          "gloss": "habiter",
+          "base": "住む",
+          "baseR": "すむ"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "言われる",
+          "r": "いわれる",
+          "pos": "verb",
+          "gloss": "dont on dit",
+          "base": "言う",
+          "baseR": "いう",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "妖怪",
+          "r": "ようかい",
+          "pos": "noun",
+          "gloss": "yōkai (créature surnaturelle)"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "くらい",
+          "pos": "particle",
+          "gloss": "environ, à peu près"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "大きさ",
+          "r": "おおきさ",
+          "pos": "noun",
+          "gloss": "taille",
+          "base": "大きい",
+          "baseR": "おおきい"
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "体",
+          "r": "からだ",
+          "pos": "noun",
+          "gloss": "corps"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "緑色",
+          "r": "みどりいろ",
+          "pos": "noun",
+          "gloss": "vert"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "背中",
+          "r": "せなか",
+          "pos": "noun",
+          "gloss": "dos"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "亀",
+          "r": "かめ",
+          "pos": "noun",
+          "gloss": "tortue"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ような",
+          "pos": "aux",
+          "gloss": "comme, semblable à",
+          "base": "ようだ"
+        },
+        {
+          "s": "甲羅",
+          "r": "こうら",
+          "pos": "noun",
+          "gloss": "carapace"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "ある",
+          "pos": "verb",
+          "gloss": "il y a",
+          "base": "ある"
+        },
+        {
+          "s": "らしい",
+          "pos": "aux",
+          "gloss": "il paraît que",
+          "grammar": [
+            "n3-rashii"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Le kappa est un yōkai qui vivrait dans les rivières et les étangs du Japon. Il aurait la taille d'un enfant, un corps vert, et sur le dos une carapace semblable à celle d'une tortue."
+    },
+    {
+      "tokens": [
+        {
+          "s": "一番",
+          "r": "いちばん",
+          "pos": "adv",
+          "gloss": "le plus"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "特徴",
+          "r": "とくちょう",
+          "pos": "noun",
+          "gloss": "caractéristique"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "頭",
+          "r": "あたま",
+          "pos": "noun",
+          "gloss": "tête"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "上",
+          "r": "うえ",
+          "pos": "noun",
+          "gloss": "dessus"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "ある",
+          "pos": "verb",
+          "gloss": "se trouver",
+          "base": "ある"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "お皿",
+          "r": "おさら",
+          "pos": "noun",
+          "gloss": "assiette"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette (près de moi)"
+        },
+        {
+          "s": "お皿",
+          "r": "おさら",
+          "pos": "noun",
+          "gloss": "assiette"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "水",
+          "r": "みず",
+          "pos": "noun",
+          "gloss": "eau"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "なくなる",
+          "pos": "verb",
+          "gloss": "disparaître, venir à manquer",
+          "base": "なくなる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "dès que",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "河童",
+          "r": "かっぱ",
+          "pos": "noun",
+          "gloss": "kappa"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "力",
+          "r": "ちから",
+          "pos": "noun",
+          "gloss": "force"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "出なくなって",
+          "r": "でなくなって",
+          "pos": "verb",
+          "gloss": "ne plus sortir",
+          "base": "出る",
+          "baseR": "でる"
+        },
+        {
+          "s": "しまう",
+          "pos": "aux",
+          "gloss": "(irrémédiablement)",
+          "base": "しまう",
+          "grammar": [
+            "n4-te-shimau"
+          ]
+        },
+        {
+          "s": "そうです",
+          "pos": "aux",
+          "gloss": "il paraît que (ouï-dire)",
+          "base": "そうだ"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Sa caractéristique principale, c'est l'« assiette » sur le dessus de sa tête. Il paraît que si l'eau de cette assiette vient à manquer, le kappa perd toute sa force."
+    },
+    {
+      "tokens": [
+        {
+          "s": "河童",
+          "r": "かっぱ",
+          "pos": "noun",
+          "gloss": "kappa"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "きゅうり",
+          "pos": "noun",
+          "gloss": "concombre"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "大好物",
+          "r": "だいこうぶつ",
+          "pos": "noun",
+          "gloss": "mets préféré"
+        },
+        {
+          "s": "だ",
+          "pos": "aux",
+          "gloss": "être (neutre)"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "言われて",
+          "r": "いわれて",
+          "pos": "verb",
+          "gloss": "être dit",
+          "base": "言う",
+          "baseR": "いう",
+          "grammar": [
+            "n4-ukemi"
+          ],
+          "note": "と言われている : « on dit que »."
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "その",
+          "pos": "expr",
+          "gloss": "ce, ce…-là"
+        },
+        {
+          "s": "ため",
+          "r": "ため",
+          "pos": "noun",
+          "gloss": "pour cette raison",
+          "grammar": [
+            "n4-tame-ni"
+          ],
+          "note": "そのため : « pour cette raison » (sens de cause de ため)."
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "きゅうり",
+          "pos": "noun",
+          "gloss": "concombre"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "入った",
+          "r": "はいった",
+          "pos": "verb",
+          "gloss": "contenant",
+          "base": "入る",
+          "baseR": "はいる"
+        },
+        {
+          "s": "巻き寿司",
+          "r": "まきずし",
+          "pos": "noun",
+          "gloss": "maki (sushi roulé)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "かっぱ巻き",
+          "r": "かっぱまき",
+          "pos": "noun",
+          "gloss": "kappa-maki"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "呼ばれる",
+          "r": "よばれる",
+          "pos": "verb",
+          "gloss": "être appelé",
+          "base": "呼ぶ",
+          "baseR": "よぶ",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "ようになった",
+          "pos": "expr",
+          "gloss": "en est venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "On dit que le kappa adore le concombre. C'est pour cela que les maki au concombre ont fini par s'appeler « kappa-maki »."
+    },
+    {
+      "tokens": [
+        {
+          "s": "昔",
+          "r": "むかし",
+          "pos": "noun",
+          "gloss": "autrefois"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "gens"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "川",
+          "r": "かわ",
+          "pos": "noun",
+          "gloss": "rivière"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "遊ばない",
+          "r": "あそばない",
+          "pos": "verb",
+          "gloss": "ne pas jouer",
+          "base": "遊ぶ",
+          "baseR": "あそぶ"
+        },
+        {
+          "s": "よう",
+          "pos": "noun",
+          "gloss": "manière, comme"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "河童",
+          "r": "かっぱ",
+          "pos": "noun",
+          "gloss": "kappa"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "話",
+          "r": "はなし",
+          "pos": "noun",
+          "gloss": "histoire"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "した",
+          "pos": "verb",
+          "gloss": "a fait (raconté)",
+          "base": "する"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "かもしれない",
+          "pos": "expr",
+          "gloss": "peut-être",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "地方",
+          "r": "ちほう",
+          "pos": "noun",
+          "gloss": "région"
+        },
+        {
+          "s": "によって",
+          "pos": "expr",
+          "gloss": "selon",
+          "grammar": [
+            "n3-ni-yotte"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "河童",
+          "r": "かっぱ",
+          "pos": "noun",
+          "gloss": "kappa"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "名前",
+          "r": "なまえ",
+          "pos": "noun",
+          "gloss": "nom"
+        },
+        {
+          "s": "や",
+          "pos": "particle",
+          "gloss": "et (liste non exhaustive)"
+        },
+        {
+          "s": "姿",
+          "r": "すがた",
+          "pos": "noun",
+          "gloss": "apparence"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "少し",
+          "r": "すこし",
+          "pos": "adv",
+          "gloss": "un peu"
+        },
+        {
+          "s": "ずつ",
+          "pos": "suffix",
+          "gloss": "petit à petit, chacun"
+        },
+        {
+          "s": "違う",
+          "r": "ちがう",
+          "pos": "verb",
+          "gloss": "être différent",
+          "base": "違う",
+          "baseR": "ちがう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Les gens d'autrefois racontaient peut-être des histoires de kappa pour que les enfants n'aillent pas jouer dans les rivières. Selon les régions, le nom et l'apparence du kappa varient un peu."
+    }
+  ],
+  "grammarUsed": [
+    "n3-ni-yotte",
+    "n3-rashii",
+    "n3-you-ni-naru",
+    "n4-ba-to",
+    "n4-kamoshirenai",
+    "n4-tame-ni",
+    "n4-te-shimau",
+    "n4-ukemi"
+  ]
+}

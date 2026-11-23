@@ -1,0 +1,188 @@
+{
+  "id": "n4-tame-ni",
+  "level": "N4",
+  "title": "〜ために",
+  "meaning": "pour, afin de / à cause de",
+  "structure": [
+    "Verbe (forme dictionnaire) + ために",
+    "Nom + の + ために"
+  ],
+  "explanation": "`ために` exprime le **but** : « pour, afin de ». `日本で働くために` = « afin de travailler au Japon ». Le verbe est à la forme dictionnaire et doit être une action **volontaire**.\n\nAvec un nom : `健康のために` = « pour la santé », `家族のために` = « pour ma famille ».\n\nDans un registre plus écrit (journaux, explications), `ために` peut aussi indiquer la **cause** : `台風のために` = « à cause du typhon ». Le contexte permet de faire la différence.",
+  "nuances": [
+    "Avec un verbe **non volontaire** (pouvoir, devenir), on utilise plutôt `〜ように` : `読めるように練習する`."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "働く",
+          "r": "はたらく",
+          "pos": "verb",
+          "gloss": "travailler",
+          "base": "働く",
+          "baseR": "はたらく"
+        },
+        {
+          "s": "ために",
+          "pos": "expr",
+          "gloss": "afin de",
+          "grammar": [
+            "n4-tame-ni"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "日本語",
+          "r": "にほんご",
+          "pos": "noun",
+          "gloss": "langue japonaise"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "勉強して",
+          "r": "べんきょうして",
+          "pos": "verb",
+          "gloss": "étudier",
+          "base": "勉強する",
+          "baseR": "べんきょうする"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'étudie le japonais pour travailler au Japon."
+    },
+    {
+      "tokens": [
+        {
+          "s": "健康",
+          "r": "けんこう",
+          "pos": "noun",
+          "gloss": "santé"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ために",
+          "pos": "expr",
+          "gloss": "pour",
+          "grammar": [
+            "n4-tame-ni"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "毎朝",
+          "r": "まいあさ",
+          "pos": "noun",
+          "gloss": "chaque matin"
+        },
+        {
+          "s": "走って",
+          "r": "はしって",
+          "pos": "verb",
+          "gloss": "courir",
+          "base": "走る",
+          "baseR": "はしる"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(habitude)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je cours chaque matin pour ma santé."
+    },
+    {
+      "tokens": [
+        {
+          "s": "台風",
+          "r": "たいふう",
+          "pos": "noun",
+          "gloss": "typhon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ために",
+          "pos": "expr",
+          "gloss": "à cause de",
+          "grammar": [
+            "n4-tame-ni"
+          ],
+          "note": "Sens de cause (registre écrit)."
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "電車",
+          "r": "でんしゃ",
+          "pos": "noun",
+          "gloss": "train"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "止まった",
+          "r": "とまった",
+          "pos": "verb",
+          "gloss": "s'est arrêté",
+          "base": "止まる",
+          "baseR": "とまる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "À cause du typhon, les trains se sont arrêtés."
+    }
+  ],
+  "related": [
+    "n3-you-ni-naru"
+  ]
+}

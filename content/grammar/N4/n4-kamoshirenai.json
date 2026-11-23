@@ -1,0 +1,148 @@
+{
+  "id": "n4-kamoshirenai",
+  "level": "N4",
+  "title": "〜かもしれない",
+  "meaning": "peut-être, il se peut que",
+  "structure": [
+    "Verbe / adj. い (forme neutre) + かもしれない",
+    "Nom / adj. な + かもしれない (sans だ)",
+    "Poli : 〜かもしれません"
+  ],
+  "explanation": "`かもしれない` exprime une **possibilité** : le locuteur n'est pas sûr, il estime que c'est possible (environ 50 %).\n\nIl se place après la forme neutre (non polie) du verbe ou de l'adjectif. Attention : avec un nom ou un adjectif en な, on **enlève** `だ` : `先生だかもしれない` ✗ → `先生かもしれない` ✓.\n\nÀ l'oral, on raccourcit souvent en `かも` : `雨かも` = « il va peut-être pleuvoir ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "明日",
+          "r": "あした",
+          "pos": "noun",
+          "gloss": "demain"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "雨",
+          "r": "あめ",
+          "pos": "noun",
+          "gloss": "pluie"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "降る",
+          "r": "ふる",
+          "pos": "verb",
+          "gloss": "tomber (pluie)",
+          "base": "降る",
+          "baseR": "ふる"
+        },
+        {
+          "s": "かもしれない",
+          "pos": "expr",
+          "gloss": "peut-être",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Il va peut-être pleuvoir demain."
+    },
+    {
+      "tokens": [
+        {
+          "s": "あの",
+          "pos": "expr",
+          "gloss": "ce… là-bas"
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "personne"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "先生",
+          "r": "せんせい",
+          "pos": "noun",
+          "gloss": "professeur"
+        },
+        {
+          "s": "かもしれません",
+          "pos": "expr",
+          "gloss": "peut-être (poli)",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Cette personne est peut-être un professeur."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "問題",
+          "r": "もんだい",
+          "pos": "noun",
+          "gloss": "problème, question"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "少し",
+          "r": "すこし",
+          "pos": "adv",
+          "gloss": "un peu"
+        },
+        {
+          "s": "難しい",
+          "r": "むずかしい",
+          "pos": "i-adj",
+          "gloss": "difficile"
+        },
+        {
+          "s": "かも",
+          "pos": "expr",
+          "gloss": "peut-être (familier)",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Cette question est peut-être un peu difficile."
+    }
+  ],
+  "related": [
+    "n3-rashii"
+  ]
+}

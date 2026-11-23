@@ -1,0 +1,172 @@
+{
+  "id": "n3-ni-yotte",
+  "level": "N3",
+  "title": "〜によって",
+  "meaning": "par (auteur) / selon / à cause de / au moyen de",
+  "structure": [
+    "Nom + によって (+ verbe)",
+    "Nom + による + Nom"
+  ],
+  "explanation": "`によって` a plusieurs sens, tous liés à l'idée de « dépendre de » :\n\n1. **L'auteur** d'une œuvre ou d'une création, avec un verbe passif : `作家によって書かれた` = « écrit par un écrivain ». C'est le sens le plus fréquent dans les textes d'histoire.\n2. **La variation** : « selon, en fonction de ». `国によって文化が違う` = « la culture change selon les pays ».\n3. **La cause** : `地震によって` = « à cause du tremblement de terre ».\n4. **Le moyen** : `インターネットによって` = « grâce à Internet ».\n\nDevant un nom, on utilise `による` : `地震による被害` = « les dégâts dus au séisme ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "小説",
+          "r": "しょうせつ",
+          "pos": "noun",
+          "gloss": "roman"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "有名",
+          "r": "ゆうめい",
+          "pos": "na-adj",
+          "gloss": "célèbre"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "作家",
+          "r": "さっか",
+          "pos": "noun",
+          "gloss": "écrivain"
+        },
+        {
+          "s": "によって",
+          "pos": "expr",
+          "gloss": "par (auteur)",
+          "grammar": [
+            "n3-ni-yotte"
+          ]
+        },
+        {
+          "s": "書かれた",
+          "r": "かかれた",
+          "pos": "verb",
+          "gloss": "a été écrit",
+          "base": "書く",
+          "baseR": "かく",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ce roman a été écrit par un écrivain célèbre."
+    },
+    {
+      "tokens": [
+        {
+          "s": "国",
+          "r": "くに",
+          "pos": "noun",
+          "gloss": "pays"
+        },
+        {
+          "s": "によって",
+          "pos": "expr",
+          "gloss": "selon",
+          "grammar": [
+            "n3-ni-yotte"
+          ]
+        },
+        {
+          "s": "文化",
+          "r": "ぶんか",
+          "pos": "noun",
+          "gloss": "culture"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "違う",
+          "r": "ちがう",
+          "pos": "verb",
+          "gloss": "être différent",
+          "base": "違う",
+          "baseR": "ちがう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "La culture varie selon les pays."
+    },
+    {
+      "tokens": [
+        {
+          "s": "地震",
+          "r": "じしん",
+          "pos": "noun",
+          "gloss": "tremblement de terre"
+        },
+        {
+          "s": "によって",
+          "pos": "expr",
+          "gloss": "à cause de",
+          "grammar": [
+            "n3-ni-yotte"
+          ]
+        },
+        {
+          "s": "多く",
+          "r": "おおく",
+          "pos": "noun",
+          "gloss": "beaucoup"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "家",
+          "r": "いえ",
+          "pos": "noun",
+          "gloss": "maison"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "壊れた",
+          "r": "こわれた",
+          "pos": "verb",
+          "gloss": "être détruit",
+          "base": "壊れる",
+          "baseR": "こわれる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Beaucoup de maisons ont été détruites par le séisme."
+    }
+  ],
+  "related": [
+    "n4-ukemi"
+  ]
+}

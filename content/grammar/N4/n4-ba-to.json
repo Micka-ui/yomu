@@ -1,0 +1,214 @@
+{
+  "id": "n4-ba-to",
+  "level": "N4",
+  "title": "〜ば / 〜と",
+  "meaning": "si… (condition générale) / dès que, chaque fois que",
+  "structure": [
+    "Verbe : 行く → 行けば (u → e + ば)",
+    "Adj. い : 安い → 安ければ",
+    "Phrase (forme neutre) + と"
+  ],
+  "explanation": "`〜ば` exprime une **condition nécessaire** : « si (et seulement si) A, alors B ». On insiste sur la condition elle-même. `練習すれば、上手になる` = « si tu t'entraînes, tu progresseras ».\n\n`〜と` exprime une conséquence **automatique ou habituelle** : « dès que A, B se produit (toujours) ». Très utilisé pour les lois naturelles, les machines, les itinéraires. `春になると、桜が咲く` = « quand vient le printemps, les cerisiers fleurissent ».\n\nAprès `〜と`, on ne peut pas mettre de demande ni d'intention (pas de 「〜てください」).",
+  "nuances": [
+    "En cas de doute, `〜たら` marche presque partout ; `〜と` est réservé aux conséquences automatiques."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "毎日",
+          "r": "まいにち",
+          "pos": "noun",
+          "gloss": "tous les jours"
+        },
+        {
+          "s": "練習すれば",
+          "r": "れんしゅうすれば",
+          "pos": "verb",
+          "gloss": "si on s'entraîne",
+          "base": "練習する",
+          "baseR": "れんしゅうする",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "上手",
+          "r": "じょうず",
+          "pos": "na-adj",
+          "gloss": "doué"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "なります",
+          "pos": "verb",
+          "gloss": "devenir",
+          "base": "なる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Si tu t'entraînes tous les jours, tu deviendras bon."
+    },
+    {
+      "tokens": [
+        {
+          "s": "春",
+          "r": "はる",
+          "pos": "noun",
+          "gloss": "printemps"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "なる",
+          "pos": "verb",
+          "gloss": "devenir",
+          "base": "なる"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "dès que, quand (toujours)",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "桜",
+          "r": "さくら",
+          "pos": "noun",
+          "gloss": "cerisier"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "咲きます",
+          "r": "さきます",
+          "pos": "verb",
+          "gloss": "fleurir",
+          "base": "咲く",
+          "baseR": "さく"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Quand vient le printemps, les cerisiers fleurissent."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "ボタン",
+          "pos": "noun",
+          "gloss": "bouton"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "押す",
+          "r": "おす",
+          "pos": "verb",
+          "gloss": "appuyer",
+          "base": "押す",
+          "baseR": "おす"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "dès que",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "ドア",
+          "pos": "noun",
+          "gloss": "porte"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "開きます",
+          "r": "あきます",
+          "pos": "verb",
+          "gloss": "s'ouvrir",
+          "base": "開く",
+          "baseR": "あく"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Quand on appuie sur ce bouton, la porte s'ouvre."
+    },
+    {
+      "tokens": [
+        {
+          "s": "安ければ",
+          "r": "やすければ",
+          "pos": "i-adj",
+          "gloss": "si c'est bon marché",
+          "base": "安い",
+          "baseR": "やすい",
+          "grammar": [
+            "n4-ba-to"
+          ]
+        },
+        {
+          "s": "買います",
+          "r": "かいます",
+          "pos": "verb",
+          "gloss": "acheter",
+          "base": "買う",
+          "baseR": "かう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Si c'est bon marché, je l'achète."
+    }
+  ],
+  "related": [
+    "n4-tara"
+  ]
+}

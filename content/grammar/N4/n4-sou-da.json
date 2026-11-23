@@ -1,0 +1,152 @@
+{
+  "id": "n4-sou-da",
+  "level": "N4",
+  "title": "〜そうだ (apparence)",
+  "meaning": "avoir l'air, sembler (d'après ce qu'on voit)",
+  "structure": [
+    "Verbe (radical en ます) + そうだ",
+    "Adj. い sans い + そうだ (いい → よさそう)",
+    "Adj. な + そうだ",
+    "Devant un nom : 〜そうな ／ devant un verbe : 〜そうに"
+  ],
+  "explanation": "Ce `そうだ` décrit une **impression visuelle immédiate** : en regardant, on juge que quelque chose a l'air d'être ainsi, ou va bientôt se produire.\n\n- `おいしそう` : « ça a l'air bon » (en voyant le plat)\n- `雨が降りそう` : « on dirait qu'il va pleuvoir » (en voyant le ciel)\n\nIl se comporte comme un adjectif en な : `おいしそうなケーキ` (un gâteau qui a l'air bon), `楽しそうに遊ぶ` (jouer joyeusement, d'un air content).\n\nException à retenir : `いい` → `よさそう`, `ない` → `なさそう`.",
+  "nuances": [
+    "Ne pas confondre avec `〜そうだ` « il paraît que » (après la forme neutre complète : `降るそうだ`), qui rapporte une information entendue."
+  ],
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "ケーキ",
+          "pos": "noun",
+          "gloss": "gâteau"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "おいしそう",
+          "pos": "i-adj",
+          "gloss": "a l'air délicieux",
+          "base": "おいしい",
+          "grammar": [
+            "n4-sou-da"
+          ]
+        },
+        {
+          "s": "だ",
+          "pos": "aux",
+          "gloss": "être (neutre)",
+          "base": "だ"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Ce gâteau a l'air délicieux."
+    },
+    {
+      "tokens": [
+        {
+          "s": "雨",
+          "r": "あめ",
+          "pos": "noun",
+          "gloss": "pluie"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "降りそう",
+          "r": "ふりそう",
+          "pos": "verb",
+          "gloss": "sur le point de tomber",
+          "base": "降る",
+          "baseR": "ふる",
+          "grammar": [
+            "n4-sou-da"
+          ]
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "ね",
+          "pos": "particle",
+          "gloss": "n'est-ce pas ? (recherche d'accord)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "On dirait qu'il va pleuvoir."
+    },
+    {
+      "tokens": [
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "たち",
+          "pos": "suffix",
+          "gloss": "(pluriel)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "楽しそうに",
+          "r": "たのしそうに",
+          "pos": "i-adj",
+          "gloss": "d'un air joyeux",
+          "base": "楽しい",
+          "baseR": "たのしい",
+          "grammar": [
+            "n4-sou-da"
+          ]
+        },
+        {
+          "s": "遊んで",
+          "r": "あそんで",
+          "pos": "verb",
+          "gloss": "jouer",
+          "base": "遊ぶ",
+          "baseR": "あそぶ"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Les enfants jouent d'un air joyeux."
+    }
+  ],
+  "related": [
+    "n3-rashii"
+  ]
+}

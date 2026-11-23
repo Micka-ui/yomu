@@ -1,0 +1,817 @@
+{
+  "id": "2026-10-19-famicom",
+  "date": "2026-10-19",
+  "level": "N4",
+  "interest": "jeux-video",
+  "title": [
+    {
+      "s": "ファミコン",
+      "pos": "name",
+      "gloss": "Famicom"
+    },
+    {
+      "s": "と",
+      "pos": "particle",
+      "gloss": "et / avec"
+    },
+    {
+      "s": "花札",
+      "r": "はなふだ",
+      "pos": "noun",
+      "gloss": "hanafuda (cartes à fleurs)"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "会社",
+      "r": "かいしゃ",
+      "pos": "noun",
+      "gloss": "entreprise"
+    }
+  ],
+  "titleFr": "La Famicom et l'entreprise de cartes à fleurs",
+  "summary": "Comment une vieille entreprise de Kyoto a fait entrer le jeu vidéo dans les foyers japonais.",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "ファミコン",
+          "pos": "name",
+          "gloss": "Famicom"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "ゲーム機",
+          "r": "ゲームき",
+          "pos": "noun",
+          "gloss": "console de jeu"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "知って",
+          "r": "しって",
+          "pos": "verb",
+          "gloss": "connaître",
+          "base": "知る",
+          "baseR": "しる"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "か",
+          "pos": "particle",
+          "gloss": "particule interrogative"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "ファミコン",
+          "pos": "name",
+          "gloss": "Famicom"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "1983",
+          "pos": "number",
+          "gloss": "1983"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "発売された",
+          "r": "はつばいされた",
+          "pos": "verb",
+          "gloss": "a été mis en vente",
+          "base": "発売する",
+          "baseR": "はつばいする",
+          "grammar": [
+            "n4-ukemi"
+          ],
+          "note": "Passif de 発売する (mettre en vente)."
+        },
+        {
+          "s": "ゲーム機",
+          "r": "ゲームき",
+          "pos": "noun",
+          "gloss": "console de jeu"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "本当",
+          "r": "ほんとう",
+          "pos": "noun",
+          "gloss": "vrai, réel"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "名前",
+          "r": "なまえ",
+          "pos": "noun",
+          "gloss": "nom"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "ファミリーコンピュータ",
+          "pos": "name",
+          "gloss": "Family Computer"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Tu connais la console appelée « Famicom » ? C'est une console mise en vente au Japon en 1983. Son vrai nom est « Family Computer »."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette (près de moi)"
+        },
+        {
+          "s": "ゲーム機",
+          "r": "ゲームき",
+          "pos": "noun",
+          "gloss": "console de jeu"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "作った",
+          "r": "つくった",
+          "pos": "verb",
+          "gloss": "a fabriqué",
+          "base": "作る",
+          "baseR": "つくる"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "任天堂",
+          "r": "にんてんどう",
+          "pos": "name",
+          "gloss": "Nintendo"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "任天堂",
+          "r": "にんてんどう",
+          "pos": "name",
+          "gloss": "Nintendo"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "もともと",
+          "pos": "adv",
+          "gloss": "à l'origine"
+        },
+        {
+          "s": "「",
+          "pos": "punct"
+        },
+        {
+          "s": "花札",
+          "r": "はなふだ",
+          "pos": "noun",
+          "gloss": "hanafuda (cartes à fleurs)"
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "という",
+          "pos": "expr",
+          "gloss": "appelé",
+          "grammar": [
+            "n4-to-iu"
+          ]
+        },
+        {
+          "s": "カード",
+          "pos": "noun",
+          "gloss": "cartes"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "作る",
+          "r": "つくる",
+          "pos": "verb",
+          "gloss": "fabriquer",
+          "base": "作る",
+          "baseR": "つくる"
+        },
+        {
+          "s": "会社",
+          "r": "かいしゃ",
+          "pos": "noun",
+          "gloss": "entreprise"
+        },
+        {
+          "s": "でした",
+          "pos": "aux",
+          "gloss": "était (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "1889",
+          "pos": "number",
+          "gloss": "1889"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "京都",
+          "r": "きょうと",
+          "pos": "name",
+          "gloss": "Kyoto"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "始まった",
+          "r": "はじまった",
+          "pos": "verb",
+          "gloss": "a commencé",
+          "base": "始まる",
+          "baseR": "はじまる"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "とても",
+          "pos": "adv",
+          "gloss": "très"
+        },
+        {
+          "s": "古い",
+          "r": "ふるい",
+          "pos": "i-adj",
+          "gloss": "vieux, ancien"
+        },
+        {
+          "s": "会社",
+          "r": "かいしゃ",
+          "pos": "noun",
+          "gloss": "entreprise"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "C'est Nintendo qui a fabriqué cette console. À l'origine, Nintendo était une entreprise qui fabriquait des cartes appelées « hanafuda ». C'est une très vieille entreprise, née à Kyoto en 1889."
+    },
+    {
+      "tokens": [
+        {
+          "s": "ファミコン",
+          "pos": "name",
+          "gloss": "Famicom"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "値段",
+          "r": "ねだん",
+          "pos": "noun",
+          "gloss": "prix"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "安くて",
+          "r": "やすくて",
+          "pos": "i-adj",
+          "gloss": "bon marché, et",
+          "base": "安い",
+          "baseR": "やすい"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "家族",
+          "r": "かぞく",
+          "pos": "noun",
+          "gloss": "famille"
+        },
+        {
+          "s": "みんな",
+          "pos": "pron",
+          "gloss": "tout le monde"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "遊べた",
+          "r": "あそべた",
+          "pos": "verb",
+          "gloss": "pouvait jouer",
+          "base": "遊ぶ",
+          "baseR": "あそぶ",
+          "grammar": [
+            "n4-kanoukei"
+          ],
+          "note": "Potentiel passé de 遊ぶ."
+        },
+        {
+          "s": "ので",
+          "pos": "conj",
+          "gloss": "comme, parce que"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "たくさん",
+          "pos": "adv",
+          "gloss": "beaucoup"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "家",
+          "r": "いえ",
+          "pos": "noun",
+          "gloss": "maison, foyer"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "使われる",
+          "r": "つかわれる",
+          "pos": "verb",
+          "gloss": "être utilisé",
+          "base": "使う",
+          "baseR": "つかう",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "ようになりました",
+          "pos": "expr",
+          "gloss": "en est venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "1985",
+          "pos": "number",
+          "gloss": "1985"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、「",
+          "pos": "punct"
+        },
+        {
+          "s": "スーパーマリオブラザーズ",
+          "pos": "name",
+          "gloss": "Super Mario Bros."
+        },
+        {
+          "s": "」",
+          "pos": "punct"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "発売されて",
+          "r": "はつばいされて",
+          "pos": "verb",
+          "gloss": "a été mis en vente, et",
+          "base": "発売する",
+          "baseR": "はつばいする",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "子ども",
+          "r": "こども",
+          "pos": "noun",
+          "gloss": "enfant"
+        },
+        {
+          "s": "たち",
+          "pos": "suffix",
+          "gloss": "(pluriel)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "毎日",
+          "r": "まいにち",
+          "pos": "noun",
+          "gloss": "tous les jours"
+        },
+        {
+          "s": "マリオ",
+          "pos": "name",
+          "gloss": "Mario"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "一緒",
+          "r": "いっしょ",
+          "pos": "noun",
+          "gloss": "ensemble"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "冒険しました",
+          "r": "ぼうけんしました",
+          "pos": "verb",
+          "gloss": "partir à l'aventure",
+          "base": "冒険する",
+          "baseR": "ぼうけんする"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Comme la Famicom n'était pas chère et que toute la famille pouvait y jouer, elle s'est mise à être utilisée dans beaucoup de foyers. En 1985, « Super Mario Bros. » est sorti, et les enfants partaient à l'aventure avec Mario tous les jours."
+    },
+    {
+      "tokens": [
+        {
+          "s": "今",
+          "r": "いま",
+          "pos": "noun",
+          "gloss": "maintenant"
+        },
+        {
+          "s": "でも",
+          "pos": "conj",
+          "gloss": "mais"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "古い",
+          "r": "ふるい",
+          "pos": "i-adj",
+          "gloss": "vieux"
+        },
+        {
+          "s": "ゲーム",
+          "pos": "noun",
+          "gloss": "jeu vidéo"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "好き",
+          "r": "すき",
+          "pos": "na-adj",
+          "gloss": "aimé"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "人",
+          "r": "ひと",
+          "pos": "noun",
+          "gloss": "personne"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "多い",
+          "r": "おおい",
+          "pos": "i-adj",
+          "gloss": "nombreux"
+        },
+        {
+          "s": "です",
+          "pos": "aux",
+          "gloss": "être (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "もし",
+          "pos": "adv",
+          "gloss": "si (jamais)"
+        },
+        {
+          "s": "ファミコン",
+          "pos": "name",
+          "gloss": "Famicom"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "ゲーム",
+          "pos": "noun",
+          "gloss": "jeu vidéo"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "遊んで",
+          "r": "あそんで",
+          "pos": "verb",
+          "gloss": "jouer",
+          "base": "遊ぶ",
+          "baseR": "あそぶ"
+        },
+        {
+          "s": "みたら",
+          "pos": "aux",
+          "gloss": "si on essaie",
+          "base": "みる",
+          "grammar": [
+            "n4-tara"
+          ],
+          "note": "〜てみる (essayer de) + たら (si)."
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "その",
+          "pos": "expr",
+          "gloss": "ce, ce…-là"
+        },
+        {
+          "s": "シンプル",
+          "pos": "na-adj",
+          "gloss": "simple"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "楽しさ",
+          "r": "たのしさ",
+          "pos": "noun",
+          "gloss": "plaisir, amusement",
+          "base": "楽しい",
+          "baseR": "たのしい",
+          "note": "楽しい → 楽しさ : adjectif transformé en nom."
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "驚く",
+          "r": "おどろく",
+          "pos": "verb",
+          "gloss": "être surpris",
+          "base": "驚く",
+          "baseR": "おどろく"
+        },
+        {
+          "s": "かもしれません",
+          "pos": "expr",
+          "gloss": "peut-être",
+          "grammar": [
+            "n4-kamoshirenai"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Aujourd'hui encore, beaucoup de gens aiment les vieux jeux. Si tu essaies un jeu Famicom, tu seras peut-être surpris par son plaisir tout simple."
+    }
+  ],
+  "grammarUsed": [
+    "n3-you-ni-naru",
+    "n4-kamoshirenai",
+    "n4-kanoukei",
+    "n4-tara",
+    "n4-to-iu",
+    "n4-ukemi"
+  ]
+}

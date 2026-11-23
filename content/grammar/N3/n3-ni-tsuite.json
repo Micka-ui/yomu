@@ -1,0 +1,139 @@
+{
+  "id": "n3-ni-tsuite",
+  "level": "N3",
+  "title": "〜について",
+  "meaning": "au sujet de, à propos de, sur",
+  "structure": [
+    "Nom + について (+ verbe)",
+    "Nom + についての + Nom"
+  ],
+  "explanation": "`について` indique le **sujet** dont on parle, qu'on étudie, sur lequel on réfléchit : « au sujet de, sur ».\n\nOn l'utilise avec des verbes comme `話す` (parler), `調べる` (se renseigner), `考える` (réfléchir), `書く` (écrire), `知る` (savoir).\n\nDevant un nom, on ajoute `の` : `妖怪についての本` = « un livre sur les yōkai ».",
+  "examples": [
+    {
+      "tokens": [
+        {
+          "s": "日本",
+          "r": "にほん",
+          "pos": "name",
+          "gloss": "Japon"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "歴史",
+          "r": "れきし",
+          "pos": "noun",
+          "gloss": "histoire"
+        },
+        {
+          "s": "について",
+          "pos": "expr",
+          "gloss": "au sujet de",
+          "grammar": [
+            "n3-ni-tsuite"
+          ]
+        },
+        {
+          "s": "調べて",
+          "r": "しらべて",
+          "pos": "verb",
+          "gloss": "se renseigner",
+          "base": "調べる",
+          "baseR": "しらべる"
+        },
+        {
+          "s": "います",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Je me renseigne sur l'histoire du Japon."
+    },
+    {
+      "tokens": [
+        {
+          "s": "この",
+          "pos": "expr",
+          "gloss": "ce, cette"
+        },
+        {
+          "s": "問題",
+          "r": "もんだい",
+          "pos": "noun",
+          "gloss": "problème"
+        },
+        {
+          "s": "について",
+          "pos": "expr",
+          "gloss": "au sujet de",
+          "grammar": [
+            "n3-ni-tsuite"
+          ]
+        },
+        {
+          "s": "話し合いましょう",
+          "r": "はなしあいましょう",
+          "pos": "verb",
+          "gloss": "discutons-en",
+          "base": "話し合う",
+          "baseR": "はなしあう"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Discutons de ce problème."
+    },
+    {
+      "tokens": [
+        {
+          "s": "妖怪",
+          "r": "ようかい",
+          "pos": "noun",
+          "gloss": "yōkai (créature surnaturelle)"
+        },
+        {
+          "s": "についての",
+          "pos": "expr",
+          "gloss": "sur (+ nom)",
+          "grammar": [
+            "n3-ni-tsuite"
+          ]
+        },
+        {
+          "s": "本",
+          "r": "ほん",
+          "pos": "noun",
+          "gloss": "livre"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "読んだ",
+          "r": "よんだ",
+          "pos": "verb",
+          "gloss": "avoir lu",
+          "base": "読む",
+          "baseR": "よむ"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "J'ai lu un livre sur les yōkai."
+    }
+  ]
+}

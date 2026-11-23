@@ -1,0 +1,800 @@
+{
+  "id": "2026-11-23-shinkansen",
+  "date": "2026-11-23",
+  "level": "N3",
+  "interest": "sciences-tech",
+  "title": [
+    {
+      "s": "新幹線",
+      "r": "しんかんせん",
+      "pos": "noun",
+      "gloss": "Shinkansen"
+    },
+    {
+      "s": "の",
+      "pos": "particle",
+      "gloss": "de (possession, liaison)"
+    },
+    {
+      "s": "ひみつ",
+      "pos": "noun",
+      "gloss": "secret"
+    }
+  ],
+  "titleFr": "Les secrets du Shinkansen",
+  "summary": "Depuis 1964, le train à grande vitesse japonais fascine par sa ponctualité et son efficacité.",
+  "paragraphs": [
+    {
+      "tokens": [
+        {
+          "s": "新幹線",
+          "r": "しんかんせん",
+          "pos": "noun",
+          "gloss": "Shinkansen (train à grande vitesse)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "1964",
+          "pos": "number",
+          "gloss": "1964"
+        },
+        {
+          "s": "年",
+          "r": "ねん",
+          "pos": "counter",
+          "gloss": "an, année"
+        },
+        {
+          "s": "十月",
+          "r": "じゅうがつ",
+          "pos": "noun",
+          "gloss": "octobre"
+        },
+        {
+          "s": "一日",
+          "r": "ついたち",
+          "pos": "noun",
+          "gloss": "le 1er (du mois)"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "東京",
+          "r": "とうきょう",
+          "pos": "name",
+          "gloss": "Tokyo"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "新大阪",
+          "r": "しんおおさか",
+          "pos": "name",
+          "gloss": "Shin-Osaka"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "間",
+          "r": "あいだ",
+          "pos": "noun",
+          "gloss": "entre"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "走り始めました",
+          "r": "はしりはじめました",
+          "pos": "verb",
+          "gloss": "commencer à rouler",
+          "base": "走り始める",
+          "baseR": "はしりはじめる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "東京",
+          "r": "とうきょう",
+          "pos": "name",
+          "gloss": "Tokyo"
+        },
+        {
+          "s": "オリンピック",
+          "pos": "noun",
+          "gloss": "Jeux olympiques"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "開かれる",
+          "r": "ひらかれる",
+          "pos": "verb",
+          "gloss": "être organisé, s'ouvrir",
+          "base": "開く",
+          "baseR": "ひらく",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "直前",
+          "r": "ちょくぜん",
+          "pos": "noun",
+          "gloss": "juste avant"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "こと",
+          "pos": "noun",
+          "gloss": "chose, fait (abstrait)"
+        },
+        {
+          "s": "でした",
+          "pos": "aux",
+          "gloss": "était (poli)",
+          "base": "です"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Le Shinkansen a commencé à circuler entre Tokyo et Shin-Osaka le 1er octobre 1964. C'était juste avant l'ouverture des Jeux olympiques de Tokyo."
+    },
+    {
+      "tokens": [
+        {
+          "s": "当時",
+          "r": "とうじ",
+          "pos": "noun",
+          "gloss": "à l'époque"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "東京",
+          "r": "とうきょう",
+          "pos": "name",
+          "gloss": "Tokyo"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "新大阪",
+          "r": "しんおおさか",
+          "pos": "name",
+          "gloss": "Shin-Osaka"
+        },
+        {
+          "s": "まで",
+          "pos": "particle",
+          "gloss": "jusqu'à"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "約",
+          "r": "やく",
+          "pos": "prefix",
+          "gloss": "environ"
+        },
+        {
+          "s": "4",
+          "pos": "number",
+          "gloss": "4"
+        },
+        {
+          "s": "時間",
+          "r": "じかん",
+          "pos": "noun",
+          "gloss": "heure(s)"
+        },
+        {
+          "s": "かかりました",
+          "pos": "verb",
+          "gloss": "prendre (du temps)",
+          "base": "かかる"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "今",
+          "r": "いま",
+          "pos": "noun",
+          "gloss": "maintenant"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "2",
+          "pos": "number",
+          "gloss": "2"
+        },
+        {
+          "s": "時間半",
+          "r": "じかんはん",
+          "pos": "noun",
+          "gloss": "heures et demie"
+        },
+        {
+          "s": "ぐらい",
+          "pos": "particle",
+          "gloss": "environ"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "行ける",
+          "r": "いける",
+          "pos": "verb",
+          "gloss": "pouvoir aller",
+          "base": "行く",
+          "baseR": "いく",
+          "grammar": [
+            "n4-kanoukei"
+          ]
+        },
+        {
+          "s": "ようになりました",
+          "pos": "expr",
+          "gloss": "en est venu à",
+          "base": "ようになる",
+          "grammar": [
+            "n3-you-ni-naru"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "À l'époque, il fallait environ 4 heures pour aller de Tokyo à Shin-Osaka ; aujourd'hui, on peut y aller en 2 heures et demie environ."
+    },
+    {
+      "tokens": [
+        {
+          "s": "新幹線",
+          "r": "しんかんせん",
+          "pos": "noun",
+          "gloss": "Shinkansen"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "安全",
+          "r": "あんぜん",
+          "pos": "na-adj",
+          "gloss": "sûr"
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "時間",
+          "r": "じかん",
+          "pos": "noun",
+          "gloss": "heure, temps"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "正確",
+          "r": "せいかく",
+          "pos": "na-adj",
+          "gloss": "précis, ponctuel"
+        },
+        {
+          "s": "な",
+          "pos": "aux",
+          "gloss": "(liaison adjectif en な + nom)"
+        },
+        {
+          "s": "乗り物",
+          "r": "のりもの",
+          "pos": "noun",
+          "gloss": "moyen de transport"
+        },
+        {
+          "s": "として",
+          "pos": "expr",
+          "gloss": "en tant que",
+          "grammar": [
+            "n3-to-shite"
+          ]
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "世界中",
+          "r": "せかいじゅう",
+          "pos": "noun",
+          "gloss": "le monde entier"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "知られて",
+          "r": "しられて",
+          "pos": "verb",
+          "gloss": "être connu",
+          "base": "知る",
+          "baseR": "しる",
+          "grammar": [
+            "n4-ukemi"
+          ]
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(état)",
+          "base": "いる"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "開業",
+          "r": "かいぎょう",
+          "pos": "noun",
+          "gloss": "mise en service"
+        },
+        {
+          "s": "して",
+          "pos": "verb",
+          "gloss": "faire (forme て de する)"
+        },
+        {
+          "s": "から",
+          "pos": "particle",
+          "gloss": "depuis / à partir de"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "列車",
+          "r": "れっしゃ",
+          "pos": "noun",
+          "gloss": "train"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "事故",
+          "r": "じこ",
+          "pos": "noun",
+          "gloss": "accident"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "乗客",
+          "r": "じょうきゃく",
+          "pos": "noun",
+          "gloss": "passager"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "亡くなった",
+          "r": "なくなった",
+          "pos": "verb",
+          "gloss": "être décédé",
+          "base": "亡くなる",
+          "baseR": "なくなる"
+        },
+        {
+          "s": "こと",
+          "pos": "noun",
+          "gloss": "chose, fait (abstrait)"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "一度",
+          "r": "いちど",
+          "pos": "noun",
+          "gloss": "une fois"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "ない",
+          "pos": "i-adj",
+          "gloss": "ne pas exister, il n'y a pas"
+        },
+        {
+          "s": "そうだ",
+          "pos": "aux",
+          "gloss": "il paraît que (ouï-dire)"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Le Shinkansen est connu dans le monde entier comme un moyen de transport sûr et ponctuel. Il paraît que depuis sa mise en service, aucun passager n'est jamais mort dans un accident de train."
+    },
+    {
+      "tokens": [
+        {
+          "s": "車内",
+          "r": "しゃない",
+          "pos": "noun",
+          "gloss": "intérieur du train"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "清掃",
+          "r": "せいそう",
+          "pos": "noun",
+          "gloss": "nettoyage"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "有名",
+          "r": "ゆうめい",
+          "pos": "na-adj",
+          "gloss": "célèbre"
+        },
+        {
+          "s": "だ",
+          "pos": "aux",
+          "gloss": "être (neutre)",
+          "base": "だ"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "終点",
+          "r": "しゅうてん",
+          "pos": "noun",
+          "gloss": "terminus"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "着く",
+          "r": "つく",
+          "pos": "verb",
+          "gloss": "arriver",
+          "base": "着く",
+          "baseR": "つく"
+        },
+        {
+          "s": "と",
+          "pos": "particle",
+          "gloss": "et / avec"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "乗客",
+          "r": "じょうきゃく",
+          "pos": "noun",
+          "gloss": "passager"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "降りて",
+          "r": "おりて",
+          "pos": "verb",
+          "gloss": "descendre",
+          "base": "降りる",
+          "baseR": "おりる"
+        },
+        {
+          "s": "いる",
+          "pos": "aux",
+          "gloss": "(en cours)",
+          "base": "いる"
+        },
+        {
+          "s": "うちに",
+          "pos": "expr",
+          "gloss": "pendant que",
+          "grammar": [
+            "n3-uchi-ni"
+          ]
+        },
+        {
+          "s": "スタッフ",
+          "pos": "noun",
+          "gloss": "personnel"
+        },
+        {
+          "s": "が",
+          "pos": "particle",
+          "gloss": "particule de sujet"
+        },
+        {
+          "s": "準備",
+          "r": "じゅんび",
+          "pos": "noun",
+          "gloss": "préparation"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "始め",
+          "r": "はじめ",
+          "pos": "verb",
+          "gloss": "commencer",
+          "base": "始める",
+          "baseR": "はじめる"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "わずか",
+          "pos": "na-adj",
+          "gloss": "à peine, seulement"
+        },
+        {
+          "s": "7",
+          "pos": "number",
+          "gloss": "7"
+        },
+        {
+          "s": "分",
+          "r": "ふん",
+          "pos": "counter",
+          "gloss": "minute(s)"
+        },
+        {
+          "s": "ほど",
+          "pos": "particle",
+          "gloss": "environ"
+        },
+        {
+          "s": "で",
+          "pos": "particle",
+          "gloss": "à / en / avec (lieu de l'action, moyen)"
+        },
+        {
+          "s": "車内",
+          "r": "しゃない",
+          "pos": "noun",
+          "gloss": "intérieur du train"
+        },
+        {
+          "s": "を",
+          "pos": "particle",
+          "gloss": "particule d'objet direct"
+        },
+        {
+          "s": "きれい",
+          "pos": "na-adj",
+          "gloss": "propre"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "する",
+          "pos": "verb",
+          "gloss": "rendre",
+          "base": "する"
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        },
+        {
+          "s": "その",
+          "pos": "expr",
+          "gloss": "ce, ce…-là"
+        },
+        {
+          "s": "動き",
+          "r": "うごき",
+          "pos": "noun",
+          "gloss": "mouvements"
+        },
+        {
+          "s": "は",
+          "pos": "particle",
+          "gloss": "particule de thème"
+        },
+        {
+          "s": "まるで",
+          "pos": "adv",
+          "gloss": "tout à fait comme"
+        },
+        {
+          "s": "ショー",
+          "pos": "noun",
+          "gloss": "spectacle"
+        },
+        {
+          "s": "の",
+          "pos": "particle",
+          "gloss": "de (possession, liaison)"
+        },
+        {
+          "s": "よう",
+          "pos": "noun",
+          "gloss": "manière, comme"
+        },
+        {
+          "s": "で",
+          "pos": "aux",
+          "gloss": "être, et… (forme liée de だ)",
+          "base": "だ"
+        },
+        {
+          "s": "、",
+          "pos": "punct"
+        },
+        {
+          "s": "見学",
+          "r": "けんがく",
+          "pos": "noun",
+          "gloss": "visite d'observation"
+        },
+        {
+          "s": "に",
+          "pos": "particle",
+          "gloss": "à / dans / vers (lieu, temps, cible)"
+        },
+        {
+          "s": "来る",
+          "r": "くる",
+          "pos": "verb",
+          "gloss": "venir",
+          "base": "来る",
+          "baseR": "くる"
+        },
+        {
+          "s": "外国人",
+          "r": "がいこくじん",
+          "pos": "noun",
+          "gloss": "étranger(s)"
+        },
+        {
+          "s": "も",
+          "pos": "particle",
+          "gloss": "aussi / même"
+        },
+        {
+          "s": "いる",
+          "pos": "verb",
+          "gloss": "il y a (personnes)",
+          "base": "いる"
+        },
+        {
+          "s": "わけだ",
+          "pos": "expr",
+          "gloss": "c'est pour ça que",
+          "grammar": [
+            "n3-wake-da"
+          ]
+        },
+        {
+          "s": "。",
+          "pos": "punct"
+        }
+      ],
+      "fr": "Le nettoyage des voitures est lui aussi célèbre. Quand le train arrive au terminus, le personnel commence à se préparer pendant que les passagers descendent, et rend l'intérieur propre en à peine 7 minutes environ. Leurs gestes ressemblent à un vrai spectacle : pas étonnant que des étrangers viennent les observer."
+    }
+  ],
+  "grammarUsed": [
+    "n3-to-shite",
+    "n3-uchi-ni",
+    "n3-wake-da",
+    "n3-you-ni-naru",
+    "n4-kanoukei",
+    "n4-ukemi"
+  ]
+}
